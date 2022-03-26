@@ -1,0 +1,74 @@
+run.set up.tear down.is successful.failure count is.has single failure containing.has failure containing.
+f times repeat.count test cases.run.to string.has item.has item.every item.contains string.both.either.
+f test.basic run.count test cases.run.to string.get test.apply.succeeded.failed.starting.finished.
+ellipsis.delta end.delta start.f context length.f expected.f actual.f prefix.f suffix.f writer.f column.compact.compact string.find common prefix.find common suffix.compute common prefix.compute common suffix.are strings equal.print.print wait prompt.print header.print errors.print failures.print defects.print defect.print defect header.print defect trace.print footer.elapsed time as string.get writer.add error.add failure.end test.start test.
+serial version u i d.f instance.get default.as test.create test.get notifier.as test list.exit.out.
+f description.to string.count test cases.run.get description.get value sources.
+failures.f name.result.starting.get method name.
+type.annotations.folder.signatures.signatures.signatures.can accept type.get type.get annotations.can accept array type.has annotation.find deep annotation.find deep annotation.get annotation.before.after.create.new file.new file.new folder.new folder.get root.delete.recursive delete.
+assert elements equal.test run started.test run finished.test started.test finished.test failure.test assumption failure.test ignored.
+runner for class.has suite method.apply.verify.
+serial version u i d.serial.get suite.get runner.
+f failed test.f thrown exception.test failure.failed test.thrown exception.to string.trace.exception message.is failure.
+max context length.serial version u i d.f expected.f actual.comparison failure.get message.get actual.get expected.
+f new test class.f runner.f cache.j unit 4 test adapter.j unit 4 test adapter.count test cases.run.get tests.get test class.get description.remove ignored.is ignored.to string.filter.sort.
+assume true.assume not null.assume that.assume no exception.
+f classes.f methods.parallel computer.classes.methods.parallelize.get suite.get runner.
+serial version u i d.could not read core exception.
+m a l f o r m e d j u n i t 3 t e s t c l a s s p r e f i x.f history.for folder.stored locally.max core.run.run.run.sort request.construct leaf request.build runner.get malformed test class.sorted leaves for test.find leaves.find leaves.
+result.test result.test result.printable result.printable result.to string.failure count.
+enclosed.
+f assigned.f unassigned.f class.assignments.all unassigned.is complete.next unassigned.assign next.get actual values.potentials for next unassigned.get supplier.get annotated supplier.get constructor arguments.get method arguments.get all arguments.get constructor parameter count.get argument strings.
+serial version u i d.parameterized assertion error.equals.join.join.string value of.
+f writer.text listener.text listener.test run finished.test started.test failure.test ignored.get writer.print header.print failures.print failure.print footer.elapsed time as string.
+serial version u i d.f value.f matcher.assumption violated exception.assumption violated exception.get message.describe to.
+f delta.inexact comparison criteria.assert elements equal.
+serial version u i d.f indices.f message.f cause.array comparison failure.add dimension.get message.to string.
+runner for class.
+runner for class.is pre 4 test.
+runner for class.
+f can use suite method.all default possibilities builder.runner for class.junit 4 builder.junit 3 builder.annotated builder.ignored builder.suite method builder.
+f test class.ignored class runner.run.get description.
+runner for class.
+constructor error format.f suite builder.annotated builder.runner for class.build runner.
+string contains.eval substring of.relationship.contains string.
+each.
+element matcher.is collection containing.matches safely.describe to.has item.has item.
+f matcher.combinable matcher.matches.describe to.and.or.
+f request.f filter.filter request.get runner.
+f request.f comparator.sorting request.get runner.
+f test class.f can use suite method.class request.class request.get runner.
+f causes.f test class.error reporting runner.get description.run.get causes.describe cause.run cause.
+f notifier.f test class.f description.f runnable.class roadie.run unprotected.add failure.run protected.run befores.run afters.
+f test.f notifier.f description.f test method.method roadie.run.run with timeout.run test.run befores then test then afters.run test method.run befores.run afters.add failure.
+f class.test class.get test methods.get befores.get afters.get annotated methods.runs top to bottom.is shadowed.is shadowed.get super classes.get constructor.get java class.get name.
+suite method.test from suite method.
+f test methods.f test class.j unit 4 class runner.get test methods.validate.run.run methods.get description.class annotations.get name.create test.invoke test method.test aborted.wrap method.test name.method description.test annotations.filter.sort.get test class.
+f errors.f test class.method validator.validate instance methods.validate static methods.validate methods for default runner.assert valid.validate no arg constructor.validate test methods.
+serial version u i d.f errors.initialization error.initialization error.initialization error.get causes.
+f method.f test class.test method.is ignored.get timeout.get expected exception.is unexpected.expects exception.get befores.get afters.invoke.
+serial version u i d.multiple failure exception.
+f notifier.f description.each test notifier.add failure.add multiple failure exception.add failed assumption.fire test finished.fire test started.fire test ignored.
+f next.f expected.expect exception.evaluate.
+f next.f target.f afters.run afters.evaluate.
+f test method.f target.invoke method.evaluate.
+f next.f target.f befores.run befores.evaluate.
+f error.fail.evaluate.
+f millis.timeout.apply.
+statement.run rules.evaluate.apply all.
+empty chain.rules starting with inner most.empty rule chain.outer rule.rule chain.around.apply.
+errors.verify.add error.check that.check that.check succeeds.
+serial version u i d.empty.test mechanism.f children.f display name.f annotations.create suite description.create test description.create test description.create suite description.description.get display name.add child.get children.is suite.is test.test count.hash code.equals.to string.is empty.childless copy.get annotation.get annotations.get test class.get class name.get method name.parse method.method string matcher.
+null.f comparator.sorter.apply.compare.
+serial version u i d.
+serial version u i d.f description.f thrown exception.failure.get test header.get description.get exception.to string.get trace.get message.
+serial version u i d.
+block j unit 4 class runner.run child.describe child.get children.compute test methods.collect initialization errors.validate no non static inner class.validate constructor.validate only one constructor.validate zero arg constructor.has one constructor.validate instance methods.validate fields.validate test methods.create test.test name.method block.method invoker.possibly expecting exceptions.with potential timeout.with befores.with afters.with rules.with method rules.get method rules.rules.with test rules.get test rules.get expected exception.expects exception.get timeout.
+all tests.
+j unit 4.
+serial version u i d.f errors.multiple failure exception.get failures.get message.assert empty.
+f class.f methods for annotations.f fields for annotations.test class.add to annotation lists.get annotated methods.get annotated fields.get annotated members.runs top to bottom.get super classes.get java class.get name.get only constructor.get annotations.get annotated field values.is a non static inner class.
+f field.framework field.get name.get annotations.is public.is shadowed by.is static.get field.get type.get.
+serial version u i d.f errors.initialization error.initialization error.initialization error.get causes.
+f method.framework method.get method.invoke explosively.get name.validate public void no arg.validate public void.validate no type parameters on args.is shadowed by.equals.hash code.produces type.get parameter types.get annotations.get annotation.
+f method.no generic type parameters validator.validate.validate no type parameter on type.validate no type parameter on parameterized type.validate no type parameter on wildcard type.validate no type parameter on generic array type.

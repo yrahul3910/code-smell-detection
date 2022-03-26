@@ -1,0 +1,103 @@
+suppress marker.threads.class loader.language version discoverer.rule sets.minimum priority.input paths.input uri.report format.report file.report short names.report properties.show suppressed violations.stress test.benchmark.type.name.description.desc.value.default value.delimiter.min.max.legal packages.get suppress marker.set suppress marker.get threads.set threads.get class loader.set class loader.prepend classpath.get language version discoverer.set default language version.set default language versions.get language version of file.get rule sets.set rule sets.get minimum priority.set minimum priority.get input paths.set input paths.get input uri.set input uri.is report short names.set report short names.create renderer.create renderer.get report format.set report format.get report file.set report file.is show suppressed violations.set show suppressed violations.get report properties.set report properties.is stress test.set stress test.is benchmark.set benchmark.
+log.rules.file name.name.description.exclude patterns.include patterns.filter.file.create for.size.add rule.add rule replace if exists.add rule if not exists.add rule by reference.get rules.uses d f a.get rule by name.add rule set.add rule set by reference.add rule set by reference.applies.start.apply.applies.end.equals.hash code.get file name.set file name.get name.set name.get description.set description.get exclude patterns.add exclude pattern.add exclude patterns.set exclude patterns.get include patterns.add include pattern.add include patterns.set include patterns.patterns changed.uses type resolution.remove dysfunctional rules.get file.add text.
+language to rule chain visitor.name.version.add.add.apply.get rule chain visitor.get version.set version.get name.set name.to string.
+log.class loader.minimum priority.warn deprecated.tokens.set class loader.set minimum priority.set warn deprecated.get registered rule sets.create rule sets.create rule sets.create rule set.create rule set.create rule.parse rule set node.class not found problem.parse rule node.parse rule set reference node.parse single rule node.has attribute set true.parse rule reference node.contains rule.is element node.parse properties node.value from.set value.parse property node b r.parse text node.is rule name.tokenize.
+external.rule set file name.all rules.rule name.external rule set reference id.prog name.no exit after run.status code property.error status.check ruleset exists.resolve built in ruleset.get rule name.is full rule set name.parse.is external.is all rules.get rule set file name.get rule name.get input stream.to string.extract parameters.build usage text.build usage text.get examples.get windows launch cmd.get windows example.get unix example.supported versions.main.jar name.get reports.run.set status code or exit.is exit after run set.set status code.
+benchmarks by name.find boolean switch.find optional string value.main.parse stress.stress.mark.mark.reset.values.
+ruleset ns uri.output stream.document.rule set file names.clinit.init.close.write.create rule set element.create description element.create exclude pattern element.create include pattern element.create rule element.create exclude element.create example element.create priority element.create properties element.create rule element.set if non null.create single rule element.create rule set reference element.create properties element.create property value element.create property definition element b r.create text element.create c d a t a section element.from internal form.to internal form.get class.get field.my get field.get method.my get method.get constructor.get method signature.get parameter types.is overriden method.
+serial version u i d.severity.language.set severity.get severity.main.
+configuration.if expr.if last statement.if last statement without else.else last statement.while expr.while last statement.switch start.case last statement.switch last default statement.switch end.for init.for expr.for update.for before first statement.for end.do before first statement.do expr.return statement.break statement.continue statement.label statement.label last statement.throw statement.type map.process source code.process source code.parse.symbol facade.uses d f a.uses type resolution.process source.determine language.get type map.string from type.
+wrapped.classpath.aux classpath.formatters.filesets.configuration.fail on error.fail on rule violation.max rule violations.failures property name.nested rules.rule violation added.metric added.set short filenames.set suppress marker.set fail on error.set fail on rule violation.set max rule violations.set rule set files.set encoding.set threads.set failures property name.set minimum priority.add fileset.add formatter.add configured source language.set classpath.get classpath.create classpath.set classpath ref.set aux classpath.get aux classpath.create aux classpath.set aux classpath ref.do task.handle error.setup class loader.execute.log rules used.validate.get nested rule set files.add ruleset.
+to file.type.to console.show suppressed.parameters.writer.renderer.id.set show suppressed.set type.set to file.set to console.add configured param.get renderer.start.end.is no output supplied.to string.valid renderer codes.unknown renderer message.create renderer.create properties.get to file writer.get next id.
+cr.sb.logger.duplicate code found.no exit after run.status code property.prog name.eol.append ln.to string.set status code or exit.is exit after run set.set status code.main.add sources files to c p d.add source u r i to c p d.build usage text.
+report file.encoding.match list.match tree.ma.report.collect.report match.add new match.get matches.has previous dupe.count duplicate tokens.match ended.
+render.added file.phase update.
+dump.report.main.
+tokens.add.iterator.get.size.get line count.get tokens.visit.visit.visit fields.visit.visit constructors.visit.visit methods.visit.visit uses.visit use.visit users.visit user.print member.
+get property descriptor type.create property descriptor.create raw property descriptor.check delimiter.check min max.
+logger.configuration.source.listener.tokens.match algorithm.current.gridbag.container.c.x.y.label alignment.weights.set cpd listener.go.get matches.add all in directory.add recursively.add.add directory.add.add.add.add and throw lexical error.add and skip lexical errors.get source paths.get sources.main.add.add.next row.add label.
+suppress marker.visit.visit.visit fields.visit.visit constructors.visit.visit methods.visit.visit uses.visit use.visit users.visit user.get suppress marker.set suppress marker.equals.hash code.
+class nodes.class filter.accept.is class.define class.define field.define constructor.define method.usage field.usage method.usage.check class name.matches.matches.matches.matches.matches.matches.
+languages.accept.to string.initialize.initialize.initialize global.initialize languages.
+language to language version.empty iterator.set default language version.get default language version.get default language version for file.get default language version for file.get languages for file.get languages for file.get extension.get attribute name.get attribute namespace uri.get attribute q name.get attribute string value.get comment string value.get element name.get element namespace uri.get element q name.get element string value.get namespace prefix.get namespace string value.get text string value.is attribute.is comment.is document.is element.is namespace.is processing instruction.is text.parse x path.get parent node.get attribute axis iterator.get child axis iterator.get parent axis iterator.get following sibling axis iterator.get preceding sibling axis iterator.get following axis iterator.get preceding axis iterator.get document node.
+empty obj array.parent.name.method.value.string value.max paths.root node.shim.current path.stack.max paths.get value.get string value.get name.get parent.to string.run.phase 1.phase 2.phase 3.has more children.add last child.add current child.add node to tree.remove from tree.add new path element.add new pseudo path element.add ref pseudo path element.equals pseudo path element with do branch node in level.get do branch node in level.add node.is node in level.get last child node.count loops.inc child.
+attribute.id.value.zero.one.float zero.get node kind.get local part.get u r i.atomize.get string value c s.get typed value.compare order.
+start node info.iterator.get another.advance.resolve.
+get system id.set system id.get string value.get string value c s.get typed value.get underlying node.get sibling position.atomize.compare order.copy.equals.generate id.get attribute value.get base u r i.get column number.get configuration.get declared namespaces.get display name.get document number.get document root.get fingerprint.get line number.get local part.get name code.get name pool.get node kind.get parent.get prefix.get root.get type annotation.get u r i.has child nodes.is id.is idref.is nilled.is same node info.iterate axis.iterate axis.create unsupported operation exception.register self in simple context.call.matches.
+is start node.to string.main.
+definition.referencing.undefinition.access type.variable name.current child.node.pseudo ref.get access type.access type matches.is definition.is reference.is undefinition.get variable name.to string.is pseudo path element.
+logger.class name.data flow handler.brace stack.continue break return stack.compile action.evaluate action.compute paths.get node to break statement.compute do.compute for.compute switch.compute while.compute if.compute if.dump.
+logger.data flow handler.data flow.brace stack.continue break return stack.create new node.create start node.create end node.get last.get first.push on stack.get brace stack.get continue break return stack.dump.format value for x path.construct predicate.
+type.node.metric name.count.total.low.high.mean.stddev.get data flow node.get type.to string.get metric name.get low value.get high value.get average.get standard deviation.get count.get total.
+rule violation.get rule violation.equals node.filter.get file extension filter.get directory filter.get file extension or directory filter.to normalized file filter.from string filter.to filename filter.to file filter.build regex filter exclude over include.build regex filter include over exclude.
+node.name.fullname.types by name.equals.hash code.get name.get full name.get node.add.contains.contains.type for.add.as inverse with short name.size.store shortest.
+xpath expression.xpath variables.cache.is supported version.evaluate.get document node.initialize x path expression.get resource stream.
+filter.file sep.find files from.scan directory.get lines.get line.get position.select.
+class name.logger.uri.db type.url.subprotocol.subname prefix.parameters.schemas list.source code types list.source code names list.languages list.driver class.character set.source code types.source code names.languages.source code type.code recompiled.node selected.path expression appended.path expression evaluated.source.reason.parameter.get parameter map.dump.get uri.set uri.get db type.set db type.get schemas list.set schemas list.get source code types list.set source code types list.get source code names list.set source code names list.get languages list.set languages list.get driver class.set driver class.get character set.set character set.get source code type.set source code type.get subprotocol.set subprotocol.get subname prefix.set subname prefix.get parameters.set parameters.get u r l.set u r l.set fields.to string.get reason.get source.get parameter.
+class name.logger.get source objects statement.get source code statement.dburi.connection.return source code objects statement.return source code statement.callable statement.return type.reader.data source name.get connection.get source code.get source code.get source object list.get source object list.get input stream.get nice file name.get data source name.set data source name.to string.
+class name.log.schema.name.type.revision.file separator.file.to string.get schema.set schema.get name.set name.get type.set type.get revision.set revision.get suffix from type.get pseudo file name.get input stream.get nice file name.glom name.trim any path sep.
+zip file.zip entry.ends with.regex.pattern.ends with.get input stream.get nice file name.get regex.get ends with.optimize.filter.to string.
+package name.logger.old log level.old handlers.new handlers.root.listeners.close.get child.get child count.get index of child.is leaf.get root.value for path changed.add tree model listener.remove tree model listener.fire tree model event.
+rule.time.compare to.rule duration.
+type.name.time.count.benchmark result.benchmark result.get time.get count.update.compare to.
+mod.last hash.last mod.matches.source.tokens.code.cpd listener.min.match algorithm.match algorithm.set listener.matches.token at.get minimum tile size.find matches.hash.
+token count.line count.mark set.code.label.matches comparator.lines comparator.label comparator.length comparator.match.get mark count.set line count.get line count.get token count.get source code slice.set source code slice.iterator.compare to.get first mark.get second mark.to string.get mark set.get end index.set mark set.set label.get label.add token entry.get mark.
+field reference.field node.get member.compare to.equals.
+method reference.method node.get member.compare to.equals.
+name.type reference.field nodes.constructor nodes.method nodes.class node.accept.get name.get type.define field.define constructor.define method.get field nodes.get constructor nodes.get method nodes.compare to.equals.hash code.
+constructor reference.constructor node.is static initializer.is instance initializer.get member.to string long.compare to.equals.
+language.version.language version handler.language version.get language.get version.get language version handler.get name.get short name.get terse name.compare to.to string.
+document.parent.node.id.sibling position.children.element node.get underlying node.get sibling position.get column number.get line number.has child nodes.get node kind.get document root.get local part.get u r i.get parent.compare order.iterate axis.
+root node.node to element node.document node.get unparsed entity.get unparsed entity names.select i d.get node kind.get document root.has child nodes.iterate axis.
+package buf.class buf.length.base dir.file separator.report h t m l print visitor.write.display rule violation.render violation row.visit.render violation.render package.render class.
+class name.class node.get class name.equals node.
+package name.package node.get package name.equals node.
+rule.description.suppressed.filename.begin line.begin column.end line.end column.package name.class name.method name.variable name.parametric rule violation.set suppression.expand variables.is variable.get variable value.get rule.get description.is suppressed.get filename.get begin line.get begin column.get end line.get end column.get package name.get class name.get method name.get variable name.set lines.to string.
+factory.long multi property.type.create from.array for.
+property descriptor.property descriptor wrapper.get property descriptor.as delimited string.choices.compare to.default value.description.error for.is multi value.is required.multi value delimiter.name.preferred row count.property error for.type.ui order.value from.attribute values by id.equals.hash code.to string.
+factory.float property.float property.float from.type.create from.
+factory.float multi property.type.create from.array for.
+class method delimiter.method arg delimiter.method group delimiters.array flag.type shortcuts.factory.shortest name for.as string for.default as string.serialized type id on.as string on.type for.method from.method from.method property.method property.method property.as string.package name of.item type name.type.value from.
+factory.character multi property.character multi property.chars in.type.value from.
+factory.long property.long property.long from.type.create from.
+default delimiter.factory.string multi property.string multi property.check defaults.type.value from.contains delimiter.illegal char msg.value error for.
+factory.integer multi property.type.create from.array for.
+factory.enumerated multi property.type.is multi value.error for.value from.as delimited string.
+factory.character property.character property.char from.type.value from.default as string.
+factory.type multi property.type multi property.type multi property.types from.package name of.type.item type name.as string.value from.
+factory.string property.default as string.type.value from.
+factory.integer property.integer property.int from.type.create from.
+factory.enumerated property.type.error for.value from.as delimited string.
+factory.file property.type.value from.default as string.
+factory.double multi property.type.create from.array for.
+boolean multi property.type.is multi value.create from.array for.default as string.
+factory.boolean property.boolean property.bool from.type.default as string.create from.
+factory.method multi property.method multi property.method multi property.methods from.as string.package name of.item type name.type.value from.
+factory.type property.type property.type property.default as string.package name of.type.item type name.as string.class from.value from.
+factory.double property.double property.double from.type.create from.
+comparator by order.descriptor factories by type.factory for.type id for.
+value type.field types by key.core field types by key.basic property descriptor factory.basic property descriptor factory.value type.create with.expected fields.name in.description in.default value in.numeric default value in.min value in.max value in.integers in.longs in.floats in.doubles in.labels in.choices in.index in.indicies in.delimiter in.min max from.legal package names in.expected field types with.
+delta.rule.data points.count.total.statistical rule helper.add data point.apply.get mean.get std dev.apply minimum value.apply top score.make violations.
+multi thread processor.process files.process reports.
+log.mono thread processor.process files.add error.
+rule set factory.ctx.counter.thread list.pmd thread factory.new thread.
+log.report format to renderer.create renderer.get renderer class.get renderer constructor.
+separator.line separator.columns.c s v writer.write titles.write data.quote.quote and commify.
+log.classpath class loader.init u r ls.add classpath u r ls.add file u r ls.create u r l from path.to string.
+iterators.index.compound iterator.has next.next.remove.get next iterator.
+rulename field.rulemsg field.ruledesc field.rule x m l area.xpath query area.code editor pane.append ln.create x m l rule panel.action performed.
+extensions.ignore case.file extension filter.file extension filter.filter.
+ant task.formatter.ant log handler.publish.close.flush.
+formatter.publish.close.flush.
+format.
+exc.ok btn.parse exception handler.init.action performed.
+model.tree.a s t panel.init.viewer model changed.value changed.
+model.list.evaluation results panel.init.viewer model changed.
+model.source code area.highlight color.source code panel.init.get source code.viewer model changed.
+model.x path area.x path panel.init.get x path expression.viewer model changed.
+model.node.attributes sub menu.init.
+model.node.simple node sub menu.init.
+model.fragment.x path fragment adding item.action performed.
+model.node.a s t node popup menu.init.
+node.children.parent.simple node tree node adapter.get simple node.get child at.get child count.get parent.get index.get allows children.is leaf.children.check children.to string.
+bundle.nls.

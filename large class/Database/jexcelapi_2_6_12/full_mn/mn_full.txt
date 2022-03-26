@@ -1,0 +1,3477 @@
+orientation
+page order
+paper size
+sheet protected
+hidden
+selected
+header
+header margin
+footer
+footer margin
+scale factor
+zoom factor
+page start
+fit width
+fit height
+horizontal print resolution
+vertical print resolution
+left margin
+right margin
+top margin
+bottom margin
+fit to pages
+show grid lines
+print grid lines
+print headers
+page break preview mode
+display zero values
+password
+password hash
+default column width
+default row height
+horizontal freeze
+vertical freeze
+vertical centre
+horizontal centre
+copies
+automatic formula calculation
+recalculate formulas before save
+page break preview magnification
+normal magnification
+print area
+print titles row
+print titles col
+sheet
+default orientation
+default order
+default paper size
+default header margin
+default footer margin
+default print resolution
+default width margin
+default height margin
+default default column width
+default zoom factor
+default normal magnification
+default page break preview magnification
+default default row height
+sheet settings
+sheet settings
+set orientation
+get orientation
+get page order
+set page order
+set paper size
+get paper size
+is protected
+set protected
+set header margin
+get header margin
+set footer margin
+get footer margin
+set hidden
+is hidden
+set selected
+set selected
+is selected
+set scale factor
+get scale factor
+set page start
+get page start
+set fit width
+get fit width
+set fit height
+get fit height
+set horizontal print resolution
+get horizontal print resolution
+set vertical print resolution
+get vertical print resolution
+set right margin
+get right margin
+set left margin
+get left margin
+set top margin
+get top margin
+set bottom margin
+get bottom margin
+get default width margin
+get default height margin
+get fit to pages
+set fit to pages
+get password
+set password
+get password hash
+set password hash
+get default column width
+set default column width
+get default row height
+set default row height
+get zoom factor
+set zoom factor
+get page break preview magnification
+set page break preview magnification
+get normal magnification
+set normal magnification
+get display zero values
+set display zero values
+get show grid lines
+set show grid lines
+get page break preview mode
+set page break preview mode
+get print grid lines
+set print grid lines
+get print headers
+set print headers
+get horizontal freeze
+set horizontal freeze
+get vertical freeze
+set vertical freeze
+set copies
+get copies
+get header
+set header
+set footer
+get footer
+is horizontal centre
+set horizontal centre
+is vertical centre
+set vertical centre
+set automatic formula calculation
+get automatic formula calculation
+set recalculate formulas before save
+get recalculate formulas before save
+set print area
+get print area
+set print titles
+set print titles row
+set print titles col
+get print titles row
+get print titles col
+description
+empty
+label
+number
+boolean
+error
+number formula
+date formula
+string formula
+boolean formula
+formula error
+date
+cell type
+to string
+j x l exception
+x c t record
+get data
+logger
+formats
+formats list
+xf records
+next custom index number
+fonts
+palette
+custom format start index
+max format records index
+min x f records
+formatting records
+add style
+add format
+is date
+get date format
+get number format
+get format record
+write
+get fonts
+get x f record
+get number of format records
+rationalize fonts
+rationalize
+rationalize display formats
+get palette
+set palette
+set colour r g b
+get colour r g b
+logger
+data
+filter mode record
+get data
+logger
+num settings
+object id
+dval parser
+data
+data validity list record
+data validity list record
+data validity list record
+get number of settings
+get data
+dv removed
+dv added
+has d v records
+get object id
+filter mode
+auto filter info
+auto filter
+auto filter
+add
+write
+name
+value
+built in names
+consolidate area
+auto open
+auto close
+extract
+database
+criteria
+print area
+print titles
+recorder
+data form
+auto activate
+auto deactivate
+sheet title
+filter database
+built in name
+get name
+get value
+get built in name
+data
+continue record
+continue record
+get data
+get record
+range
+conditions
+conditional format
+add condition
+insert column
+remove column
+remove row
+insert row
+write
+logger
+prompt box visible mask
+prompt box at cell mask
+validity data cached mask
+prompt box visible
+prompt box at cell
+validity data cached
+num d v records
+object id
+d val parser
+d val parser
+get data
+dv removed
+get number of d v records
+get object id
+dv added
+logger
+validity list
+validity settings
+workbook
+external sheet
+workbook settings
+combo box object id
+copied
+default object id
+max no of validity settings
+data validation
+data validation
+data validation
+add
+get data validity list
+get data validity settings
+write
+insert row
+remove row
+insert column
+remove column
+remove data validation
+remove shared data validation
+get data validity settings
+get combo box object id
+logger
+ms dos drive letter
+same drive
+end of subdirectory
+parent directory
+unencoded url
+get encoded u r l
+get file
+get u r l
+row
+col
+empty cell
+get row
+get column
+get type
+get contents
+get cell format
+set hidden
+set locked
+set alignment
+set vertical alignment
+set border
+set cell format
+set cell format
+is hidden
+copy to
+get cell features
+get writable cell features
+set cell features
+logger
+workbook
+sheet 1
+column 1
+row 1
+sheet 2
+column 2
+row 2
+range impl
+get top left
+get bottom right
+get first sheet index
+get last sheet index
+logger
+data
+conditional format record
+get data
+xf index
+style number
+built in style
+get data
+sheet
+cell finder
+find cell
+find cell
+find cell
+find label cell
+logger
+data
+auto filter record
+get data
+logger
+new indices
+index mapping
+set mapping
+get new index
+logger
+data
+dv parser
+workbook
+external sheet
+workbook settings
+data validation
+data validity settings record
+data validity settings record
+data validity settings record
+data validity settings record
+initialize
+get data
+insert row
+remove row
+insert column
+remove column
+get first column
+get last column
+get first row
+get last row
+set data validation
+get d v parser
+get validation formula
+format string
+format index
+built ins
+built in format
+get format string
+get format index
+is initialized
+initialize
+is built in
+equals
+sheet
+column 1
+row 1
+column 2
+row 2
+sheet range impl
+sheet range impl
+get top left
+get bottom right
+get first sheet index
+get last sheet index
+intersects
+to string
+insert row
+insert column
+remove row
+remove column
+hash code
+equals
+logger
+data
+auto filter info record
+get data
+logger
+value
+code
+description
+codes
+usa
+canada
+greece
+netherlands
+belgium
+france
+spain
+italy
+switzerland
+uk
+denmark
+sweden
+norway
+germany
+philippines
+china
+india
+unknown
+country code
+country code
+get value
+get code
+get country code
+create arbitrary code
+id
+name
+chunk types
+ihdr
+iend
+phys
+unknown
+chunk type
+get name
+get chunk type
+logger
+data
+row
+column
+object id
+note record
+note record
+note record
+get data
+get row
+get column
+get object id
+pos
+length
+type
+data
+chunk
+get data
+logger
+read sp container
+mso drawing record
+initialized
+image file
+image data
+object id
+blip id
+x
+y
+width
+height
+reference count
+escher data
+origin
+drawing group
+drawing data
+type
+shape id
+drawing number
+drawing 2
+drawing 2
+drawing 2
+drawing 2
+initialize
+set object id
+get object id
+get shape id
+get blip id
+get mso drawing record
+get sp container
+set drawing group
+get drawing group
+get origin
+get reference count
+set reference count
+get x
+set x
+get y
+set y
+get width
+set width
+get height
+set height
+get read sp container
+get image data
+get image bytes
+get type
+write additional records
+write tail records
+get column
+get row
+is first
+is form object
+remove row
+get image file path
+logger
+data
+properties
+x 1
+y 1
+x 2
+y 2
+client anchor
+client anchor
+get data
+get x 1
+get y 1
+get x 2
+get y 2
+get properties
+data
+drawing id
+shape count
+seed
+dg
+dg
+get drawing id
+get shape count
+get data
+logger
+drawing data
+escher data
+bstore container
+initialized
+drawings
+num blips
+num charts
+drawing group id
+drawings omitted
+origin
+image files
+max object id
+max shape id
+drawing group
+drawing group
+add
+add
+add data
+add drawing
+add
+add
+remove
+initialize
+get b store container
+get data
+write
+get number of blips
+get image data
+set drawings omitted
+has drawings omitted
+update data
+logger
+drawings
+drawings modified
+charts
+workbook settings
+sheet drawing writer
+set drawings
+write
+write unmodified
+set charts
+get charts
+logger
+mso drawing record
+obj record
+startpos
+endpos
+file
+drawing data
+drawing number
+data
+initialized
+workbook settings
+chart
+get bytes
+get data
+initialize
+rationalize
+get sp container
+get mso drawing record
+get obj record
+value
+desc
+types
+error
+unknown
+emf
+wmf
+pict
+jpeg
+png
+dib
+first client
+last client
+blip type
+get description
+get value
+get type
+logger
+escher atom
+escher atom
+get data
+logger
+read sp container
+sp container
+mso drawing record
+obj record
+initialized
+object id
+blip id
+shape id
+column
+row
+width
+height
+reference count
+escher data
+origin
+drawing group
+drawing data
+type
+drawing number
+mso
+txo
+note
+text
+formatting
+comment text
+workbook settings
+comment
+comment
+comment
+initialize
+set object id
+get object id
+get shape id
+get blip id
+get mso drawing record
+get sp container
+set drawing group
+get drawing group
+get origin
+get reference count
+set reference count
+get x
+set x
+get y
+set y
+get width
+set width
+get height
+set height
+get read sp container
+get image data
+get type
+set text object
+set note
+set text
+set formatting
+get image bytes
+get image file path
+add mso
+write additional records
+write tail records
+get row
+get column
+get text
+hash code
+set comment text
+is first
+is form object
+stream
+writer
+escher display
+display
+display container
+display record
+indent
+value
+types
+unknown
+dgg container
+bstore container
+dg container
+spgr container
+sp container
+dgg
+bse
+dg
+spgr
+sp
+opt
+client anchor
+client data
+client text box
+split menu colors
+escher record type
+get value
+get type
+logger
+first
+data
+mso drawing record
+mso drawing record
+get data
+get record
+set first
+is first
+logger
+type
+data
+image data length
+reference count
+write
+image data offset
+blip store entry
+blip store entry
+get blip type
+get data
+dereference
+get reference count
+get image data
+logger
+pos
+instance
+version
+record id
+length
+stream length
+container
+type
+escher stream
+escher record data
+escher record data
+is container
+get length
+get record id
+get drawing group
+get pos
+get type
+get instance
+set container
+set instance
+set length
+set version
+set header data
+get escher stream
+get bytes
+get stream length
+data
+mso drawing group record
+mso drawing group record
+get data
+logger
+data
+text length
+text object record
+text object record
+text object record
+get text length
+get data
+logger
+read sp container
+sp container
+mso drawing record
+obj record
+initialized
+object id
+blip id
+shape id
+column
+row
+width
+height
+reference count
+escher data
+origin
+drawing group
+drawing data
+type
+drawing number
+mso
+txo
+text
+formatting
+comment text
+workbook settings
+button
+button
+initialize
+set object id
+get object id
+get shape id
+get blip id
+get mso drawing record
+get sp container
+set drawing group
+get drawing group
+get origin
+get reference count
+set reference count
+get x
+set x
+get y
+set y
+get width
+set width
+get height
+set height
+get read sp container
+get image data
+get type
+set text object
+set text
+set formatting
+get image bytes
+get image file path
+add mso
+write additional records
+write tail records
+get row
+get column
+get text
+hash code
+set button text
+is first
+is form object
+value
+types
+min
+picture frame
+host control
+text box
+unknown
+shape type
+get type
+get value
+logger
+initialized
+children
+escher container
+escher container
+get children
+add
+remove
+initialize
+get data
+logger
+data
+shape type
+shape id
+persistence flags
+sp
+sp
+get shape id
+get shape type
+get data
+png data
+ihdr
+phys
+pixel width
+pixel height
+vertical resolution
+horizontal resolution
+resolution unit
+png magic number
+p n g reader
+read
+get int
+get height
+get width
+get horizontal resolution
+get vertical resolution
+main
+logger
+options
+word
+settings
+sum mask
+if mask
+choose mask
+goto mask
+if conditions
+attribute
+attribute
+set if conditions
+read
+is function
+is sum
+is if
+is goto
+is choose
+get operands
+get string
+get bytes
+get if
+get precedence
+adjust relative cell references
+column inserted
+column removed
+row inserted
+row removed
+handle imported cell references
+logger
+column relative
+row relative
+column
+row
+relative to
+shared formula cell reference
+read
+get column
+get row
+get string
+get bytes
+handle imported cell references
+logger
+parser
+formula parser
+formula parser
+formula parser
+formula parser
+adjust relative cell references
+parse
+get formula
+get bytes
+column inserted
+column removed
+row inserted
+row removed
+handle imported cell references
+logger
+name table
+name
+index
+name range
+name range
+read
+get bytes
+get string
+handle imported cell references
+logger
+column relative
+row relative
+column
+row
+relative to
+sheet
+workbook
+cell reference 3d
+cell reference 3d
+read
+get column
+get row
+get string
+get bytes
+adjust relative cell references
+column inserted
+column removed
+row inserted
+row removed
+handle imported cell references
+value
+tokens
+ref
+r e f 3 d
+missing arg
+string
+err
+bool
+integer
+double
+referr
+refv
+areav
+mem area
+area
+named range
+name
+a r e a 3 d
+unary plus
+unary minus
+percent
+parenthesis
+add
+subtract
+multiply
+divide
+power
+concat
+less than
+less equal
+equal
+greater equal
+greater than
+not equal
+union
+range
+function
+functionvararg
+attribute
+mem func
+unknown
+token
+token
+token
+token
+token
+get code
+get reference code
+get code 2
+get value code
+get token
+logger
+code
+name
+num args
+functions
+count
+attribute
+isna
+iserror
+sum
+average
+min
+max
+row
+column
+na
+npv
+stdev
+dollar
+fixed
+sin
+cos
+tan
+atan
+pi
+sqrt
+exp
+ln
+l o g 1 0
+abs
+int
+sign
+round
+lookup
+index
+rept
+mid
+len
+value
+true
+false
+and
+or
+not
+mod
+dcount
+dsum
+daverage
+dmin
+dmax
+dstdev
+var
+dvar
+text
+linest
+trend
+logest
+growth
+pv
+fv
+nper
+pmt
+rate
+rand
+match
+date
+time
+day
+month
+year
+weekday
+hour
+minute
+second
+now
+areas
+rows
+columns
+offset
+search
+transpose
+error
+type
+a t a n 2
+asin
+acos
+choose
+hlookup
+vlookup
+isref
+log
+char
+lower
+upper
+proper
+left
+right
+exact
+trim
+replace
+substitute
+code
+find
+cell
+iserr
+istext
+isnumber
+isblank
+t
+n
+datevalue
+timevalue
+sln
+syd
+ddb
+indirect
+clean
+mdeterm
+minverse
+mmult
+ipmt
+ppmt
+counta
+product
+fact
+dproduct
+isnontext
+stdevp
+varp
+dstdevp
+dvarp
+trunc
+islogical
+dcounta
+findb
+searchb
+replaceb
+leftb
+rightb
+midb
+lenb
+roundup
+rounddown
+rank
+address
+a y s 3 6 0
+oday
+vdb
+median
+sumproduct
+sinh
+cosh
+tanh
+asinh
+acosh
+atanh
+info
+avedev
+betadist
+gammaln
+betainv
+binomdist
+chidist
+chiinv
+combin
+confidence
+critbinom
+even
+expondist
+fdist
+finv
+fisher
+fisherinv
+floor
+gammadist
+gammainv
+ceiling
+hypgeomdist
+lognormdist
+loginv
+negbinomdist
+normdist
+normsdist
+norminv
+normsinv
+standardize
+odd
+permut
+poisson
+tdist
+weibull
+s u m x m y 2
+s u m x 2 m y 2
+s u m x 2 p y 2
+chitest
+correl
+covar
+forecast
+ftest
+intercept
+pearson
+rsq
+steyx
+slope
+ttest
+prob
+devsq
+geomean
+harmean
+sumsq
+kurt
+skew
+ztest
+large
+small
+quartile
+percentile
+percentrank
+mode
+trimmean
+tinv
+concatenate
+power
+radians
+degrees
+subtotal
+sumif
+countif
+countblank
+hyperlink
+averagea
+maxa
+mina
+stdevpa
+varpa
+stdeva
+vara
+if
+unknown
+function
+hash code
+get code
+get property name
+get name
+get num args
+get function
+get function
+get functions
+logger
+function
+function string
+string function
+get function
+logger
+function
+arguments
+read from sheet
+settings
+variable arg function
+variable arg function
+read
+get operands
+get string
+adjust relative cell references
+column inserted
+column removed
+row inserted
+row removed
+handle imported cell references
+get function
+get bytes
+get precedence
+handle special cases
+error code
+description
+codes
+unknown
+null
+d i v 0
+value
+ref
+name
+num
+na
+formula error code
+get code
+get description
+get error code
+get error code
+logger
+value
+settings
+string value
+string value
+read
+get bytes
+get string
+handle imported cell references
+logger
+function
+settings
+built in function
+built in function
+read
+get operands
+get string
+adjust relative cell references
+column inserted
+column removed
+row inserted
+row removed
+handle imported cell references
+get bytes
+get precedence
+logger
+workbook
+sheet
+column range 3d
+column range 3d
+get string
+logger
+token data
+relative to
+pos
+root
+token stack
+workbook
+name table
+settings
+parse context
+token formula parser
+parse
+parse sub expression
+handle memory function
+add operator
+get formula
+adjust relative cell references
+get bytes
+column inserted
+column removed
+row inserted
+row removed
+handle imported cell references
+logger
+sheet
+column first
+row first
+column last
+row last
+column first relative
+row first relative
+column last relative
+row last relative
+workbook
+area 3d
+area 3d
+get first column
+get first row
+get last column
+get last row
+read
+get string
+get bytes
+adjust relative cell references
+column inserted
+column removed
+row inserted
+row removed
+set range data
+handle imported cell references
+yyeof
+zz buffersize
+yystring
+yyinitial
+zz cmap packed
+zz cmap
+zz action
+z z a c t i o n p a c k e d 0
+zz rowmap
+z z r o w m a p p a c k e d 0
+zz trans
+z z t r a n s p a c k e d 0
+zz unknown error
+zz no match
+z z p u s h b a c k 2 b i g
+zz error msg
+zz attribute
+z z a t t r i b u t e p a c k e d 0
+zz reader
+zz state
+zz lexical state
+zz buffer
+zz marked pos
+zz pushback pos
+zz current pos
+zz start read
+zz end read
+yyline
+yychar
+yycolumn
+zz at b o l
+zz at e o f
+empty string
+external sheet
+name table
+zz unpack action
+zz unpack action
+zz unpack row map
+zz unpack row map
+zz unpack trans
+zz unpack trans
+zz unpack attribute
+zz unpack attribute
+get pos
+set external sheet
+set name table
+yylex
+yylex
+zz unpack c map
+zz refill
+yyclose
+yyreset
+yystate
+yybegin
+yytext
+yycharat
+yylength
+zz scan error
+yypushback
+yylex
+logger
+formula
+parsed formula
+root
+arguments
+settings
+external sheet
+name table
+parse context
+string formula parser
+parse
+parse current
+get tokens
+get formula
+get bytes
+handle function
+adjust relative cell references
+column inserted
+column removed
+row inserted
+row removed
+handle operand
+handle imported cell references
+column first
+row first
+column last
+row last
+column first relative
+row first relative
+column last relative
+row last relative
+relative to
+shared formula area
+get first column
+get first row
+get last column
+get last row
+read
+get string
+get bytes
+handle imported cell references
+logger
+names
+functions
+function names
+get function
+get name
+index
+base unit
+get index
+verify
+verify
+factors
+get conversion factor
+name
+name
+name
+csv
+logger
+input workbook
+output workbook
+read write
+read write
+modify
+out
+encoding
+workbook
+xml
+write x m l
+write formatted x m l
+c s v format
+x m l format
+logger
+display help
+main
+find test
+formulas
+reader
+write access
+display
+writer
+reader
+record names
+xf index
+font index
+bofs
+bytes per line
+biff dump
+build name hash
+dump
+write record
+write six digit value
+write byte
+escher drawing group
+features
+writer
+compound file
+property sets reader
+display sets
+display property set
+escher
+cellview
+filename
+workbook
+write
+write
+write number format sheet
+write date format sheet
+write label format sheet
+write borders sheet
+write labels sheet
+write formula sheet
+write image sheet
+value
+string
+orientations
+horizontal
+vertical
+p l u s 9 0
+m i n u s 9 0
+p l u s 4 5
+m i n u s 4 5
+stacked
+orientation
+get value
+get description
+get orientation
+value
+string
+patterns
+none
+solid
+g r a y 5 0
+g r a y 7 5
+g r a y 2 5
+p a t t e r n 1
+p a t t e r n 2
+p a t t e r n 3
+p a t t e r n 4
+p a t t e r n 5
+p a t t e r n 6
+p a t t e r n 7
+p a t t e r n 8
+p a t t e r n 9
+p a t t e r n 1 0
+p a t t e r n 1 1
+p a t t e r n 1 2
+p a t t e r n 1 3
+p a t t e r n 1 4
+pattern
+get value
+get description
+get pattern
+value
+string
+normal
+bold
+bold style
+get value
+get description
+red
+green
+blue
+rgb
+get red
+get green
+get blue
+value
+string
+alignments
+general
+left
+centre
+right
+fill
+justify
+alignment
+get j u s t i f y
+set j u s t i f y
+get f i l l
+set f i l l
+get l e f t
+set l e f t
+get alignments
+set alignments
+get string
+set string
+set value
+get value
+get description
+get alignment
+last paper size
+val
+paper sizes
+undefined
+letter
+letter small
+tabloid
+ledger
+legal
+statement
+executive
+a 3
+a 4
+a 4 s m a l l
+a 5
+b 4
+b 5
+folio
+quarto
+s i z e 1 0x 1 4
+s i z e 1 0x 1 7
+note
+e n v e l o p e 9
+e n v e l o p e 1 0
+e n v e l o p e 1 1
+e n v e l o p e 1 2
+e n v e l o p e 1 4
+c
+d
+e
+envelope dl
+e n v e l o p e c 5
+e n v e l o p e c 3
+e n v e l o p e c 4
+e n v e l o p e c 6
+e n v e l o p e c 6 c 5
+b 4 i s o
+b 5 i s o
+b 6 i s o
+envelope italy
+envelope monarch
+e n v e l o p e 6 7 5
+us fanfold
+german fanfold
+german legal fanfold
+b 4 i s o 2
+japanese postcard
+s i z e 9x 1 1
+s i z e 1 0x 1 1
+s i z e 1 5x 1 1
+envelope invite
+letter extra
+legal extra
+tabloid extra
+a 4 e x t r a
+letter transverse
+a 4 t r a n s v e r s e
+letter extra transverse
+s u p e r a a 4
+s u p e r b a 3
+letter plus
+a 4 p l u s
+a 5 t r a n s v e r s e
+b 5 t r a n s v e r s e
+a 3 e x t r a
+a 5 e x t r a
+b 5 e x t r a
+a 2
+a 3 t r a n s v e r s e
+a 3 e x t r a t r a n s v e r s e
+double japanese postcard
+a 6
+letter rotated
+a 3 r o t a t e d
+a 4 r o t a t e d
+a 5 r o t a t e d
+b 4 r o t a t e d
+b 5 r o t a t e d
+japanese postcard rotated
+double japanese postcard rotated
+a 6 r o t a t e d
+b 6
+b 6 r o t a t e d
+paper size
+paper size
+get value
+get paper size
+value
+string
+styles
+none
+thin
+medium
+dashed
+dotted
+thick
+double
+hair
+medium dashed
+dash dot
+medium dash dot
+dash dot dot
+medium dash dot dot
+slanted dash dot
+border line style
+get value
+get description
+get style
+value
+string
+alignments
+top
+centre
+bottom
+justify
+vertical alignment
+get value
+get description
+get alignment
+value
+rgb
+string
+colours
+unknown
+black
+white
+d e f a u l t b a c k g r o u n d 1
+default background
+palette black
+red
+bright green
+blue
+yellow
+pink
+turquoise
+dark red
+green
+dark blue
+dark yellow
+violet
+teal
+g r e y 2 5 p e r c e n t
+g r e y 5 0 p e r c e n t
+periwinkle
+p l u m 2
+ivory
+l i g h t t u r q u o i s e 2
+dark purple
+coral
+ocean blue
+ice blue
+d a r k b l u e 2
+p i n k 2
+y e l l o w 2
+t u r q o i s e 2
+v i o l e t 2
+d a r k r e d 2
+t e a l 2
+b l u e 2
+sky blue
+light turquoise
+light green
+very light yellow
+pale blue
+rose
+lavender
+tan
+light blue
+aqua
+lime
+gold
+light orange
+orange
+blue grey
+g r e y 4 0 p e r c e n t
+dark teal
+sea green
+dark green
+olive green
+brown
+plum
+indigo
+g r e y 8 0 p e r c e n t
+automatic
+g r a y 8 0
+g r a y 5 0
+g r a y 2 5
+colour
+get value
+get description
+get default red
+get default green
+get default blue
+get default r g b
+get internal colour
+get all colours
+value
+string
+styles
+no underline
+single
+double
+single accounting
+double accounting
+underline style
+get value
+get description
+get style
+string
+none
+all
+top
+bottom
+left
+right
+border
+get description
+value
+string
+styles
+normal script
+superscript
+subscript
+script style
+get value
+get description
+get style
+col 1 size
+col 2 size
+col 3 size
+col 1 name
+col 2 name
+col 3 name
+option flags
+sort columns
+sort key 1 desc
+sort key 2 desc
+sort key 3 desc
+sort case sensitive
+sort record
+get sort col 1 name
+get sort col 2 name
+get sort col 3 name
+get sort columns
+get sort key 1 desc
+get sort key 2 desc
+get sort key 3 desc
+get sort case sensitive
+logger
+row
+col first
+col last
+numblanks
+xf indices
+mul blank record
+read blanks
+get row
+get first column
+get number of columns
+get x f index
+logger
+value
+external sheet
+name table
+formula string
+data
+string formula record
+string formula record
+read string
+get contents
+get string
+get type
+get formula data
+get formula
+logger
+rows visible
+columns visible
+pane record
+get rows visible
+get columns visible
+logger
+window protected
+window protected record
+get window protected
+date record
+value
+shared date formula record
+get value
+get contents
+get type
+get formula data
+get date
+is time
+get date format
+blank cell
+get contents
+get type
+logger
+row number
+row height
+collapsed
+default format
+matches def font height
+xf index
+outline level
+group start
+default height indicator
+row record
+is default height
+matches default font height
+get row number
+get outline level
+get group start
+get row height
+is collapsed
+get x f index
+has default format
+logger
+value
+format
+default format
+number record
+get value
+get contents
+get type
+get number format
+logger
+character set
+codepage record
+get character set
+p l s record
+get data
+height
+default row height record
+get height
+wauser
+write access record
+get write access
+logger
+excel 9file
+excel 9 file record
+get excel 9 file
+logger
+data
+num big block depot blocks
+sbd start block
+root start block
+extension block
+num extension blocks
+root entry
+big block chain
+small block chain
+big block depot blocks
+property sets
+settings
+root entry property storage
+compound file
+read big block depot
+read small block depot
+read property sets
+get stream
+get stream
+find property storage
+find property storage
+get property storage
+get property storage
+get big block stream
+get small block stream
+read data
+get number of property sets
+get property set
+left margin record
+top margin record
+bottom margin record
+centre
+centre record
+is centre
+nineteen four
+nineteen four record
+is 1 9 0 4
+logger
+recalculate on save
+save recalc record
+get recalculate on save
+logger
+automatic
+calc mode record
+is automatic
+logger
+value
+format
+formatting records
+default format
+shared number formula record
+set number format
+get value
+get contents
+get type
+get formula data
+get number format
+prot
+protect record
+is protected
+numerator
+denominator
+s c l record
+get zoom factor
+file
+record
+biff record reader
+has next
+next
+get pos
+error code
+external sheet
+name table
+formula string
+data
+error
+error formula record
+get error code
+get contents
+get type
+get formula data
+get formula
+error code
+error record
+get error code
+get contents
+get type
+logger
+row
+col first
+col last
+numrks
+rknumbers
+xf indices
+mul r k record
+read rks
+get row
+get first column
+get number of columns
+get r k number
+get x f index
+print headers
+print headers record
+get print headers
+data
+start column
+end column
+xf index
+width
+hidden
+outline level
+collapsed
+column info record
+get start column
+get end column
+get x f index
+get outline level
+get collapsed
+get width
+get hidden
+ranges
+merged cells record
+get ranges
+cellview
+logger
+excel file
+shared strings
+sheet bof
+workbook bof
+formatting records
+name
+num rows
+num cols
+cells
+start position
+column infos
+row records
+row properties
+column infos array
+shared formulas
+hyperlinks
+charts
+drawings
+images
+data validation
+merged cells
+column infos initialized
+row records initialized
+nineteen four
+workspace options
+hidden
+pls record
+button property set
+settings
+row breaks
+column breaks
+max row outline level
+max column outline level
+local names
+conditional formats
+auto filter
+workbook
+workbook settings
+sheet impl
+get cell
+get cell
+find cell
+find cell
+find cell
+find label cell
+get rows
+get columns
+get row
+get column
+get name
+set name
+is hidden
+get column info
+get column infos
+set hidden
+clear
+read sheet
+get hyperlinks
+get merged cells
+get row properties
+get data validation
+get row info
+get row page breaks
+get column page breaks
+get charts
+get drawings
+is protected
+get workspace options
+get settings
+get workbook
+get column format
+get column width
+get column view
+get row height
+get row view
+get sheet bof
+get workbook bof
+get p l s
+get button property set
+get number of images
+get drawing
+initialize images
+get drawing data
+add local name
+get conditional formats
+get auto filter
+get max column outline level
+get max row outline level
+logger
+language
+regional settings
+country record
+get language code
+get regional settings code
+logger
+data
+portrait orientation
+page order
+header margin
+footer margin
+paper size
+scale factor
+page start
+fit width
+fit height
+horizontal print resolution
+vertical print resolution
+copies
+initialized
+setup record
+is portrait
+is right down
+get header margin
+get footer margin
+get paper size
+get scale factor
+get page start
+get fit width
+get fit height
+get horizontal print resolution
+get vertical print resolution
+get copies
+get initialized
+formula string
+external sheet
+name table
+data
+date formula record
+get type
+get formula data
+get formula
+get value
+get number format
+logger
+value
+format
+default format
+r k record
+get value
+get contents
+get type
+get number format
+print grid lines
+print grid lines record
+get print grid lines
+logger
+name
+add in function
+external name record
+is add in function
+get name
+logger
+value
+shared boolean formula record
+get value
+get contents
+get type
+get formula data
+value
+external sheet
+name table
+formula string
+data
+boolean formula record
+get value
+get contents
+get type
+get formula data
+get formula
+logger
+value
+format
+default format
+formula string
+external sheet
+name table
+data
+number formula record
+get value
+get contents
+get type
+get formula data
+get formula
+get number format
+palette record
+get data
+password
+password hash
+password record
+get password hash
+logger
+date
+row
+column
+time
+format
+cell format
+xf index
+formatting records
+sheet
+features
+initialized
+date format
+time format
+non leap day
+gmt zone
+utc offset days
+utc offset days 1 9 0 4
+seconds in a day
+ms in a second
+ms in a day
+date record
+get row
+get column
+get date
+get contents
+get type
+is time
+get date format
+get cell format
+is hidden
+get sheet
+get cell features
+set cell features
+width
+default column width record
+get width
+logger
+refresh all
+refresh all record
+get refresh all
+logger
+excel file
+shared strings
+sheet bof
+workbook bof
+formatting records
+num rows
+num cols
+cells
+out of bounds cells
+start position
+row properties
+column infos array
+shared formulas
+hyperlinks
+conditional formats
+auto filter
+merged cells
+data validation
+charts
+drawings
+drawing data
+nineteen four
+pls record
+button property set
+workspace options
+row breaks
+column breaks
+max row outline level
+max column outline level
+settings
+workbook settings
+workbook
+sheet
+sheet reader
+add cell
+read
+add to shared formulas
+revert shared formula
+get num rows
+get num cols
+get cells
+get row properties
+get column infos array
+get hyperlinks
+get conditional formats
+get auto filter
+get charts
+get drawings
+get data validation
+get merged cells
+get settings
+get row breaks
+get column breaks
+get workspace options
+get p l s
+get button property set
+add cell comment
+add cell validation
+handle object record
+get drawing data
+handle out of bounds cells
+get max column outline level
+get max row outline level
+logger
+excel file
+bofs
+nineteen four
+shared strings
+boundsheets
+formatting records
+fonts
+sheets
+last sheet
+last sheet index
+named records
+name table
+add in functions
+extern sheet
+supbooks
+workbook bof
+mso drawing group
+button property set
+wb protected
+contains macros
+settings
+drawing group
+country record
+xct records
+workbook parser
+get sheets
+get read sheet
+get sheet
+get sheet
+get sheet names
+get external sheet index
+get last external sheet index
+get external sheet name
+get last external sheet name
+get number of sheets
+close
+add sheet
+parse
+get formatting records
+get external sheet record
+get mso drawing group record
+get supbook records
+get name records
+get fonts
+get cell
+find cell by name
+find by name
+get range names
+get workbook bof
+is protected
+get settings
+get external sheet index
+get last external sheet index
+get name
+get name index
+get drawing group
+get compound file
+contains macros
+get button property set
+get country record
+get add in function names
+get index
+get x c t records
+row
+column
+value
+format
+cell format
+features
+xf index
+formatting records
+initialized
+sheet
+default format
+number value
+set number format
+get row
+get column
+get value
+get contents
+get type
+get cell format
+is hidden
+get number format
+get cell features
+set cell features
+error
+value
+boolean record
+is error
+get value
+get contents
+get type
+get record
+logger
+row
+column
+cell format
+xf index
+formatting records
+initialized
+sheet
+features
+mul blank cell
+get row
+get column
+get contents
+get type
+get cell format
+is hidden
+get cell features
+set cell features
+logger
+code
+type
+length
+data pos
+file
+data
+continue records
+record
+get type
+get length
+get data
+get code
+set type
+add continue record
+logger
+template
+template record
+get template
+logger
+button property set record
+get data
+logger
+hidemode
+hideobj record
+get hide mode
+logger
+data
+file pos
+old pos
+initial file size
+array grow size
+compound file
+workbook settings
+file
+file
+next
+peek
+skip
+read
+get pos
+set pos
+restore pos
+move to first bof
+close
+clear
+has next
+get compound file
+width
+height
+row outline level
+column outline level
+gutters record
+get row outline level
+get column outline level
+logger
+error code
+data
+error
+shared error formula record
+get error code
+get contents
+get type
+get formula data
+right margin record
+logger
+biff 8
+biff 7
+workbook globals
+worksheet
+chart
+macro sheet
+version
+substream type
+b o f record
+is biff 8
+is biff 7
+is workbook globals
+is worksheet
+is macro sheet
+is chart
+get length
+index
+string
+label s s t record
+get string
+get contents
+get type
+logger
+first row
+last row
+first col
+last col
+template formula
+formulas
+tokens
+external sheet
+sheet
+shared formula record
+add
+get formulas
+get template formula
+bold style
+boolean
+boolean
+boolean
+boolean
+set value
+copy to
+move and size with cells
+move with cells
+no move or size with cells
+writable image
+writable image
+writable image
+get column
+set column
+get row
+set row
+get width
+set width
+get height
+set height
+get image file
+get image data
+set image anchor
+get image anchor
+date format
+arial
+times
+no bold
+bold
+no underline
+single
+double
+single accounting
+double accounting
+normal script
+superscript
+subscript
+font
+font
+font
+font
+font
+font
+font
+blank
+blank
+blank
+blank
+copy to
+label
+label
+label
+label
+set string
+copy to
+gmt
+date time
+date time
+date time
+date time
+date time
+date time
+date time
+set date
+set date
+copy to
+writable hyperlink
+writable hyperlink
+writable hyperlink
+writable hyperlink
+writable hyperlink
+writable hyperlink
+writable hyperlink
+writable hyperlink
+writable hyperlink
+writable hyperlink
+set u r l
+set file
+set description
+set location
+formula
+formula
+formula
+copy to
+complex format
+currency euro prefix
+currency euro suffix
+currency pound
+currency japanese yen
+currency dollar
+fraction three digits
+fraction halves
+fraction quarters
+fractions eighths
+fraction sixteenths
+fraction tenths
+fraction hundredths
+number format
+number format
+number
+number
+number
+set value
+number
+copy to
+bottom margin record
+writable font record
+writable font record
+set point size
+set bold style
+set italic
+set underline style
+set colour
+set script style
+set struckout
+protection
+data
+window protect record
+get data
+logger
+output file
+rows
+num rows
+num cols
+header
+footer
+settings
+workbook settings
+row breaks
+column breaks
+hyperlinks
+conditional formats
+auto filter
+validated cells
+data validation
+merged cells
+pls record
+button property set
+workspace options
+column formats
+drawing writer
+chart only
+max row outline level
+max column outline level
+sheet
+sheet writer
+write
+get header
+get footer
+set write data
+set dimensions
+set settings
+get workspace options
+set workspace options
+set charts
+set drawings
+get charts
+check merged borders
+get column
+set chart only
+set p l s
+set button property set
+set data validation
+set conditional formats
+set auto filter
+write data validation
+data
+window 2 record
+get data
+as displayed
+data
+precision record
+get data
+data
+author string
+user name
+write access record
+get data
+top margin record
+right margin record
+hidden
+chart only
+name
+data
+boundsheet record
+set hidden
+set chart only
+get data
+num references
+num strings
+strings
+string lengths
+data
+byte count
+max bytes
+s s t record
+add
+get offset
+get data
+logger
+read error formula record
+get error code
+handle formula exception
+protection
+data
+prot 4 rev record
+get data
+data
+p l s record
+p l s record
+get data
+data
+button property set record
+button property set record
+get data
+data
+centre
+horizontal centre record
+get data
+data
+footer
+footer record
+footer record
+get data
+logger
+read number formula record
+get value
+get number format
+handle formula exception
+logger
+formula to parse
+parser
+formula string
+formula bytes
+copied from
+formula record
+formula record
+formula record
+formula record
+initialize
+initialize copied formula
+set cell details
+get data
+get type
+get contents
+get formula data
+copy to
+column inserted
+column removed
+row inserted
+row removed
+ranges
+merged cells record
+get data
+refreshall
+data
+refresh all record
+get data
+column breaks
+vertical page breaks record
+get data
+language
+regional settings
+country record
+country record
+get data
+data
+palette record
+get data
+password
+data
+password record
+password record
+get data
+rot left 1 5 bit
+logger
+data
+header margin
+footer margin
+orientation
+order
+paper size
+scale factor
+page start
+fit width
+fit height
+horizontal print resolution
+vertical print resolution
+copies
+initialized
+setup record
+set orientation
+set order
+set margins
+set paper size
+get data
+data
+centre
+vertical centre record
+get data
+logger
+format records
+output file
+sheets
+fonts
+extern sheet
+supbooks
+names
+name records
+shared strings
+close stream
+wb protected
+settings
+rcir cells
+drawing group
+styles
+contains macros
+button property set
+country record
+synchronizer
+add in function names
+xct records
+writable workbook impl
+writable workbook impl
+get sheets
+get sheet names
+get read sheet
+get sheet
+get sheet
+get number of sheets
+close
+set output file
+create sheet
+create sheet
+remove sheet
+move sheet
+write
+copy workbook
+copy sheet
+copy sheet
+set protected
+rationalize
+get internal sheet index
+get external sheet name
+get last external sheet name
+get workbook bof
+get external sheet index
+get last external sheet index
+get external sheet index
+get last external sheet index
+set colour r g b
+get colour r g b
+get name
+get name index
+add r c i r cell
+column inserted
+column removed
+row inserted
+row removed
+find cell by name
+find by name
+add drawing
+remove drawing
+get drawing group
+create drawing group
+get range names
+remove range name
+get styles
+add name area
+add name area
+add name area
+add name area
+get settings
+get writable cell
+import sheet
+data
+rows
+bof position
+blocks
+data pos
+index record
+get data
+add block position
+set data start position
+info record size
+number of strings
+absolute stream positions
+relative stream positions
+current string index
+extended s s t record
+get number of buckets
+get number of strings per bucket
+add string
+get data
+calc count
+data
+calc count record
+get data
+writable fonts
+logger
+formula
+parser
+read formula record
+get cell data
+handle formula exception
+get data
+get type
+get contents
+get formula data
+get formula bytes
+copy to
+set cell details
+column inserted
+column removed
+row inserted
+row removed
+get read formula
+get formula
+handle imported cell references
+logger
+from sheet
+to sheet
+workbook settings
+from column formats
+to column formats
+from merged cells
+to merged cells
+from rows
+from row breaks
+from column breaks
+to row breaks
+to column breaks
+from data validation
+to data validation
+sheet writer
+from drawings
+to drawings
+to images
+from workspace options
+from p l s record
+to p l s record
+from button property set
+to button property set
+from hyperlinks
+to hyperlinks
+validated cells
+num rows
+max row outline level
+max column outline level
+chart only
+format records
+xf records
+fonts
+formats
+writable sheet copier
+set column formats
+set merged cells
+set rows
+set validated cells
+set row breaks
+set column breaks
+set drawings
+set hyperlinks
+set workspace options
+set data validation
+set p l s record
+set button property set record
+set sheet writer
+get data validation
+get p l s record
+is chart only
+get button property set
+copy sheet
+shallow copy cell
+deep copy cell
+shallow copy cells
+deep copy cells
+copy cell format
+get max column outline level
+get max row outline level
+logger
+temporary file
+data
+file data output
+write
+get position
+set data
+write data
+close
+data
+print headers
+print headers record
+get data
+nineteen four date
+data
+nineteen four record
+get data
+logger
+from sheet
+to sheet
+workbook settings
+column formats
+format records
+hyperlinks
+merged cells
+row breaks
+column breaks
+sheet writer
+drawings
+images
+conditional formats
+validated cells
+auto filter
+data validation
+combo box
+pls record
+chart only
+button property set
+num rows
+max row outline level
+max column outline level
+xf records
+fonts
+formats
+sheet copier
+set column formats
+set format records
+set hyperlinks
+set merged cells
+set row breaks
+set column breaks
+set sheet writer
+set drawings
+set images
+set conditional formats
+set validated cells
+get auto filter
+get data validation
+get combo box
+get p l s record
+is chart only
+get button property set
+copy sheet
+copy writable sheet
+import sheet
+shallow copy cell
+deep copy cell
+shallow copy cells
+deep copy cells
+copy cell format
+import names
+get rows
+get max column outline level
+get max row outline level
+width
+data
+default column width
+get data
+logger
+data
+grow size
+pos
+memory data output
+write
+get position
+set data
+write data
+close
+logger
+read string formula record
+get string
+handle formula exception
+logger
+name
+external name record
+get data
+data
+grid set
+grid set record
+get data
+protection
+data
+scenario protect record
+get data
+left margin record
+logger
+data
+pos
+output stream
+initial file size
+array grow size
+workbook settings
+read compound file
+file
+create data output
+close
+write
+get pos
+set data
+set output file
+column 1 name
+column 2 name
+column 3 name
+sort columns
+sort key 1 desc
+sort key 2 desc
+sort key 3 desc
+sort case sensitive
+sort record
+get data
+row pos
+cell offset
+cell row positions
+position
+d b cell record
+set cell offset
+add cell row position
+set position
+get data
+data
+selected sheet
+window 1 record
+get data
+read date formula record
+get date
+is time
+get date format
+data
+row height
+changed
+default row height record
+get data
+rows visible
+columns visible
+top left pane
+bottom left pane
+top right pane
+bottom right pane
+pane record
+get data
+protection
+data
+object protect record
+get data
+backup
+data
+backup record
+get data
+hidemode
+data
+hideobj record
+get data
+cell x f record
+cell x f record
+cell x f record
+set alignment
+set background
+set locked
+set indentation
+set shrink to fit
+set vertical alignment
+set orientation
+set wrap
+set border
+iterate
+data
+iteration record
+get data
+num menu items added
+num menu items deleted
+data
+m m s record
+get data
+data
+iteration value
+delta record
+get data
+data
+column
+style
+xf index
+width
+hidden
+outline level
+collapsed
+column info record
+column info record
+column info record
+column info record
+get column
+increment column
+decrement column
+get width
+set width
+get data
+get cell format
+set cell format
+get xf index
+rationalize
+set hidden
+get hidden
+equals
+hash code
+get outline level
+get collapsed
+increment outline level
+decrement outline level
+set outline level
+set collapsed
+row breaks
+horizontal page breaks record
+get data
+data
+print grid lines
+print grid lines record
+get data
+data
+tab id record
+get data
+date format record
+normal style
+writable formatting records
+data
+recalc
+save recalc record
+get data
+read boolean formula record
+get value
+num rows
+num cols
+data
+dimension record
+get data
+logger
+data
+arbitrary record
+get data
+logger
+ranges
+sheet
+max ranges per sheet
+merged cells
+add
+insert row
+insert column
+remove column
+remove row
+get merged cells
+unmerge cells
+check intersections
+check ranges
+write
+logger
+data
+cells
+row height
+collapsed
+row number
+num columns
+xf index
+style
+default format
+matches def font height
+grow size
+max r k value
+min r k value
+default height indicator
+max columns
+outline level
+group start
+sheet
+row record
+set row height
+set row details
+set collapsed
+get row number
+add cell
+remove cell
+write
+write cells
+write integer values
+get data
+get max column
+get cell
+increment row
+decrement row
+insert column
+remove column
+is default height
+get row height
+is collapsed
+rationalize
+get style
+has default format
+matches default font height
+get outline level
+get group start
+increment outline level
+decrement outline level
+set outline level
+set group start
+row
+col first
+col last
+rknumbers
+xf indices
+mul r k record
+get data
+zoom factor
+s c l record
+get data
+data
+header
+header record
+header record
+get data
+value
+string record
+get data
+protection
+data
+protect record
+get data
+style x f record
+set cell options
+set locked
+external link
+data
+bookbool record
+get data

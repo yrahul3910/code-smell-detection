@@ -1,0 +1,4001 @@
+default thread count
+service
+get service
+set service
+set service thread count
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+resize
+extensions
+extension container
+add extension
+add extension
+put extension
+put extension
+contains extension
+extension iterator
+get extension
+get extensions
+remove extension
+remove extension
+initial capacity
+collection
+clear
+contains key
+contains value
+create collection
+entry set
+find
+get
+is empty
+key set
+put
+put all
+remove
+remove empty collection
+size
+values
+attribute writers
+element writers
+extension attribute writers
+extension element writers
+add attribute writer
+add element writer
+add extension attribute writer
+add extension element writer
+get attribute writers
+get element writers
+get extension attribute writers
+get extension element writers
+remove attribute writer
+remove element writer
+remove extension attribute writer
+remove extension node writer
+unknown elements
+unknown elements
+get unknown elements
+write attributes
+write content
+attribute handlers for tag
+current element
+element content as string
+element stack
+node creator
+node creator stack
+parent element
+parse manager
+parser
+save as xml until
+tag
+xml builder
+xml to boolean
+xml to date
+xml to point
+tree xml reader
+add attribute
+add attribute
+add p c data
+element attributes processed
+end element
+get attribute loaders
+get element handlers
+get result
+load
+new processing instruction
+push parent objects
+set element content
+start building
+start element
+load
+element started
+hints
+write manager
+xml element
+xmlwriter
+boolean to xml
+date to string
+list to string
+point to xml
+flush
+tree xml writer
+add attribute
+add attribute
+add attribute
+add comment
+add element
+add element
+add element content
+add extension attributes
+add extension nodes
+get attribute writers
+get hint
+get node writers
+set hint
+set hint
+skip next element content
+not parse next element content
+process element
+process element content
+writer
+flush
+x m l writer
+x m l writer
+end element
+finalize
+start element
+write
+write
+write
+write encoded
+language automatic
+default language
+postfix translate me
+resource language
+controller
+default resources
+external resources
+lang
+language resources
+is user defined
+resource bundles
+add resources
+add resources
+get keys
+get language code
+get default language code
+get language resources
+get system resource url
+get language resources
+get resource string
+get resource string
+put resource string
+handle get object
+load local language resources
+load another language
+property name
+set boolean property action
+action performed
+set selected
+is property set
+height
+width
+x
+y
+name
+window configuration storage
+get height
+get width
+get x
+get y
+marshall
+marshall specific elements
+set height
+set width
+set x
+set y
+store dialog positions
+store dialog positions
+restore dialog positions
+restore dialog positions
+unmarschall
+label
+text
+get description
+get label
+get name
+layout
+set enabled
+m text area
+text box property
+get value
+layout
+set enabled
+set value
+get components
+description
+label
+name
+set label
+property adapter
+property adapter
+get description
+get label
+get name
+layout
+default layout format
+label
+layout format
+tab property
+tab property
+get description
+get label
+get name
+layout
+set enabled
+label
+separator property
+get description
+get label
+get name
+layout
+set enabled
+don t touch value
+don t touch value int
+false value
+false value int
+true value
+true value int
+m button
+state
+remind value property
+get state
+get value
+layout
+set enabled
+set state
+set value
+transform string
+get components
+m combo box
+possible values
+translate
+combo property
+combo property
+fill possible values
+get value
+layout
+get possible values
+set enabled
+set value
+update combo box entries
+action performed
+get components
+set editable
+is editable
+m text field
+string property
+get value
+layout
+set enabled
+set value
+get components
+m available font family names
+m font combo box
+font property
+get value
+layout
+set enabled
+set value
+get components
+m check box
+boolean property
+get value
+layout
+set enabled
+set value
+set value
+get boolean value
+get components
+row spec
+icon
+label text
+m button
+modifier mask
+key property
+disable modifiers
+get value
+layout
+set enabled
+set image icon
+set label text
+set value
+get components
+color
+default color
+m button
+menu
+color property
+action performed
+get color value
+get value
+layout
+set color value
+set enabled
+set value
+get components
+m actual icon
+m button
+m icons
+icon property
+action performed
+get value
+layout
+set enabled
+set icon
+set value
+get icon
+get components
+serial version u i d
+controls
+property action
+action performed
+after map change
+spinner
+is double property
+number property
+number property
+get value
+layout
+set enabled
+set value
+get components
+hierarchy changed
+mouse dragged
+mouse moved
+mouse clicked
+mouse entered
+mouse exited
+mouse pressed
+mouse released
+extra submenu
+max menu item count
+count
+add menu component
+fits on screen
+has extra sub menu
+is extra sub menu
+get extra sub menu
+serial version u i d
+key already used exception
+mouse inside
+c
+is mouse inside
+mouse inside listener
+connect
+mouse entered
+mouse exited
+mouse moved
+recursively add mouse inside listener
+recursively remove mouse inside listener
+disconnect
+delegate
+button
+click counter
+timer
+max time between clicks
+max click number
+get delegate
+mouse dragged
+mouse moved
+get max click number
+set max click number
+mouse clicked
+mouse entered
+mouse exited
+mouse pressed
+mouse released
+delayed mouse listener
+serial version u i d
+default property chaneg listener
+j auto toggle button
+j auto toggle button
+create action property change listener
+property change
+state changed
+null insets
+serial version u i d
+freeplane tool bar
+set layout
+add
+add
+add
+add
+add
+configure component
+serial version u i d
+default property chaneg listener
+is key binding processed
+j auto radio button menu item
+configure properties from action
+create action property change listener
+property change
+process key binding
+is key binding processed
+serial version u i d
+action listener
+p storage key
+send external events
+persistent editable combo box
+add action listener
+add url
+get text
+set text
+serial version u i d
+resize event
+serial version u i d
+j auto scroll bar pane
+do layout
+get preferred size
+length
+blind icon
+get icon height
+get icon width
+paint icon
+object
+icon
+object and icon
+to string
+get object
+get icon
+serial version u i d
+ignore set selected
+action toggle button model
+set selected
+set pressed
+fire action performed
+delay
+timer
+popup
+mouse inside listener
+start
+auto hide
+try to close popup
+stop
+j restricted size scroll pane
+get preferred size
+instance
+add layout component
+layout container
+minimum layout size
+preferred layout size
+remove layout component
+get instance
+serial version u i d
+border width
+fc
+bitmap image preview
+property change
+update view
+both ok and cancel options are stored
+only ok selection is stored
+only ok selection is shown
+m dialog
+m dont show again box
+m message id
+m message type
+m node
+m parent
+m property name
+m result
+m title id
+show
+optional dont show me again dialog
+close
+get property
+get result
+set property
+show
+serial version u i d
+default property chaneg listener
+is key binding processed
+j auto check box menu item
+configure properties from action
+create action property change listener
+property change
+process key binding
+is key binding processed
+serial version u i d
+get font
+get font scale factor
+logger
+logger created
+create logger
+get log directory
+info
+info
+severe
+severe
+severe
+warn
+warn
+warn
+get logger
+make valid xml
+black
+color to string
+string to color
+create color
+create timer
+create standard icon
+list standard icon keys
+create image icon
+create image icon by resource key
+version
+version key
+version properties
+xml version
+m maj
+m mid
+m min
+m num
+m type
+revision
+get version
+get version
+load version
+get maj
+get mid
+get min
+get num
+get type
+get revision
+freeplane version
+freeplane version
+compare to
+to string
+number to string
+is older than
+is newer than
+is final
+load revision
+level
+line separator
+logger
+logging output stream
+flush
+uri regexp
+uri pattern
+format
+get optional text
+remove mnemonic
+remove translate comment
+create translated string
+get text
+get raw text
+get text
+get raw text
+get optional translation
+to number
+is number
+is empty
+match uri pattern
+get default number format
+get default date format
+get default date time format
+copy to clipboard
+get update reader
+transform
+get actual reader
+copy from u r l
+copy from resource
+copy stream
+dump string to file
+create directory
+load properties
+slurp
+slurp resource
+slurp resource
+slurp file
+slurp file
+default charset
+get extension
+get extension
+is absolute path
+read file
+remove extension
+set hidden
+silently close
+copy file
+conv attr
+convert to h t m l
+fixed h t m l writer
+fixed h t m l writer
+write attributes
+create
+create
+get factory
+to spec
+encode
+decode
+config list value separator strict
+config list value separator one or more
+decode list value
+encode list value
+get localized file
+serial version u i d
+first
+second
+double list model
+get element at
+get size
+serial version u i d
+model
+selected item
+attribute registry combo box column model
+add
+clear
+contains
+get element at
+get index of
+get selected item
+get size
+remove
+replace
+set selected item
+table changed
+attribute
+name
+attribute
+load
+attribute not exists condition
+check node
+create description
+fill x m l
+get name
+show icon for attributes
+attribute tooltip
+attribute icon
+mode controller
+get controller
+get controller
+install
+attribute controller
+create attribute table model
+perform insert row
+perform registry attribute
+perform registry attribute value
+perform registry subtree attributes
+perform remove attribute
+perform remove attribute value
+perform remove row
+perform replace atribute name
+perform replace attribute value
+perform set column width
+perform set font size
+perform set restriction
+perform set value at
+perform set visibility
+register tooltip provider
+register state icon provider
+can edit
+attribute
+name
+attribute
+load
+attribute exists condition
+check node
+create description
+fill x m l
+get name
+name
+value
+attribute
+attribute
+attribute
+get name
+get value
+set name
+set value
+to string
+attribute
+comparation result
+name
+succeed
+attribute
+comparation result
+succeed
+load
+attribute compare condition
+is equality condition
+check node
+create description
+fill x m l
+get name
+attribute column name
+editor column name
+restriction column name
+serial version u i d
+visibility column name
+all attributes
+attribute registry
+attribute registry table model
+fire restrictions updated
+fire table cell updated
+fire table rows deleted
+fire table rows deleted
+fire table rows inserted
+fire table rows updated
+fire visibility updated
+get column class
+get column count
+get column name
+get row count
+get value at
+is cell editable
+set value at
+capacity increment
+emtpy attributes
+attributes
+layout
+listeners
+node
+get model
+node attribute table model
+node attribute table model
+add row no undo
+add table model listener
+allocate attributes
+fire table cell updated
+fire table changed
+fire table rows deleted
+fire table rows inserted
+fire table rows updated
+get attribute
+get attribute key list
+get attribute position
+get attributes
+get attribute table length
+get column class
+get column count
+get column name
+get column width
+get layout
+get name
+get node
+get row count
+get value
+get value at
+is cell editable
+remove table model listener
+set name
+set value
+set value at
+attribute
+name
+value
+match case
+attribute
+value
+search pattern
+load
+attribute matches condition
+check node
+create description
+fill x m l
+get name
+is match case
+attribute
+name
+value
+match case
+match approximately
+attribute
+value
+compared value
+match case
+match approximately
+string matching strategy
+load
+attribute contains condition
+check node
+create description
+fill x m l
+get name
+serial version u i d
+col
+column width change event
+get column number
+method not supported
+delegate
+get children internal
+init
+single copy source
+hash code
+get user object
+equals
+accept view visitor
+add extension
+put extension
+add icon
+add icon
+add viewer
+are views empty
+children
+contains extension
+create i d
+fire node changed
+get allows children
+get child at
+get child count
+get child position
+get children
+get extension
+get extensions
+get filter info
+get history information
+get icon
+get icons
+get i d
+get index
+get map
+get node level
+get parent
+get parent node
+get path to root
+get text
+get viewers
+has children
+has i d
+insert
+is descendant of
+is folded
+is leaf
+is left
+is new child left
+is root
+is visible
+remove
+remove
+remove extension
+remove extension
+remove from parent
+remove icon
+remove icon
+remove viewer
+set folded
+set history information
+set i d
+set left
+set map
+set parent
+set parent
+to string
+depth
+insert
+get visible ancestor or self
+el
+based on headings
+fileout
+map controller
+write folding code
+node style controller
+default font
+default color
+convert special char
+write h t m l escape unicode and special characters
+mind map h t m l writer
+font style
+get property
+write body with folding
+write folding buttons
+write h t m l
+reset defaults
+set defaults from
+write h t m l
+write h t m l
+write icons
+write java script
+write model content
+write style
+write default font style
+drop action flavor
+file list flavor
+html flavor
+mind map nodes flavor
+rtf flavor
+drop action content
+file list
+html content
+nodes content
+rtf content
+string content
+mind map nodes selection
+get transfer data
+get transfer data flavors
+is data flavor supported
+lost ownership
+set drop action
+cc
+cloud builder
+create element
+end element
+register attribute handlers
+register by
+set attributes
+write content
+write content
+write content impl
+serial version u i d
+action shape
+cloud shape action
+action performed
+action performed
+set selected
+ec
+edge builder
+create edge
+create element
+end element
+register attribute handlers
+register by
+set attributes
+write content
+write content
+write content
+standard edge style
+standard edge color
+color handlers
+style handlers
+width handlers
+get controller
+get controller
+install
+edge controller
+add color getter
+add style getter
+add width getter
+get color
+get color
+get style
+get style
+get width
+get width
+remove color getter
+remove style getter
+remove width getter
+get style edge color
+get style width
+get style style
+serial version u i d
+m width
+get width title
+width 2 string
+edge width action
+action performed
+set selected
+serial version u i d
+m style
+edge style action
+action performed
+set selected
+salt length
+salt present indicator
+dcipher
+ecipher
+iteration count
+m algorithm
+m salt
+pass phrase
+from base 6 4
+to base 6 4
+des encrypter
+decrypt
+encrypt
+init with new salt
+init
+triple des encrypter
+decode 6 4
+encode 6 4
+is cancelled
+get password
+get password with confirmation
+get password impl
+on wrong password
+is cancelled
+store
+decrypted icon
+encrypted icon
+install
+encryption controller
+register state icon provider
+toggle crypt state
+do password check and decrypt node
+decrypt
+encrypt
+serial version u i d
+encryption controller
+enter password
+action performed
+can be enabled
+set enabled
+single des encrypter
+serial version u i d
+encryption controller
+remove encryption
+action performed
+can be enabled
+set enabled
+m encryption controller
+install
+remove encryption
+image descripton
+image type
+export to image
+export
+export to image
+add dpi to metadata
+get file filter
+get image resolution d p i
+filter map
+file filters
+install
+export controller
+create image exporters
+create x s l t export actions
+add export engine
+get filter map
+get file filters
+get contoller
+get controller
+check current map
+export filter pattern
+file name pattern
+compiled export filter pattern
+compiled file name pattern
+max read lines
+controller
+gather xslt scripts
+get xslt sys directory
+get xslt user directory
+gather xslt scripts
+extract filter from file
+add xslt file
+property reference epression
+m transform result without error
+properties
+name
+copy icons to directory
+export with x s l t
+copy files from resources to directory
+copy icons
+copy map
+get image resolution d p i
+create image from map
+get area code
+get map xml
+get property
+get property
+is transform result without error
+export
+transform map with xslt
+get file filter
+image resolution in dpi
+image creator
+create buffered image
+get image resolution d p i
+xslt file
+xslt export engine
+hash code
+equals
+export
+get map xml
+serial version u i d
+filter controller
+reapply filter action
+action performed
+serial version u i d
+filter controller
+show ancestors action
+action performed
+is model selected
+matches
+condition
+filter controller
+apply named filter action
+action performed
+serial version u i d
+filter controller
+undo filter action
+action performed
+menu user defined filters
+filter controller
+filter menu builder
+update menus
+serial version u i d
+filter controller
+apply no filtering action
+action performed
+applies to visible nodes only
+condition
+options
+filter icon
+create transparent filter
+filter
+add filter result
+applies to visible nodes only
+display filter status
+apply filter
+apply filter
+are ancestors shown
+are descendants shown
+check node
+filter children
+get condition
+is condition stronger
+is visible
+refresh map
+reset filter
+select visible node
+matches
+serial version u i d
+filter editor
+filter controller
+direction
+quick find action
+execute action
+action performed
+serial version u i d
+filter controller
+filter editor
+quick filter action
+action performed
+serial version u i d
+filter controller
+redo filter action
+action performed
+serial version u i d
+filter controller
+show descendants action
+action performed
+is model selected
+serial version u i d
+filter editor
+filter controller
+quick highlight action
+action performed
+is model selected
+serial version u i d
+filter controller
+apply selected view condition action
+action performed
+name
+serial version u i d
+filter controller
+apply to visible action
+action performed
+is model selected
+serial version u i d
+filter editor
+filter controller
+quick find all action
+action performed
+serial version u i d
+direction
+next node action
+action performed
+name
+conditions
+load
+conjunct conditions
+check node
+create renderer component
+fill x m l
+create description
+get name
+split
+name
+conditions
+load
+disjunct conditions
+check node
+create renderer component
+fill x m l
+create description
+get name
+split
+no value text
+render named conditions
+default condition renderer
+get list cell renderer component
+get cell renderer component
+get table cell renderer component
+name
+original condition
+load
+condition not satisfied decorator
+check node
+create renderer component
+fill x m l
+create description
+get name
+split
+resources format locale
+get format locale from resources
+equals format locale name
+date pattern format
+format object
+get style
+parser
+missing fields
+forbid leading spaces
+date format parser
+date format parser
+get type depending on format
+parse
+bar
+formula
+pattern
+formatted formula
+get pattern
+get object
+serialize
+deserialize
+encode bar
+decode bar
+to string
+hash code
+equals
+decimal pattern format
+format object
+get style
+object
+formatted string
+pattern format
+formatted object
+formatted object
+validate
+get pattern
+get object
+serialize
+serialize unformatted object
+deserialize
+deserialize unformatted object
+to string
+hash code
+equals
+iso date format pattern
+iso date time format pattern
+iso date time regexp pattern
+df
+default type
+formatted date
+formatted date
+formatted date
+formatted date
+create default formatted date
+to string
+serialize
+to string i s o
+to string short i s o
+deserialize
+to date
+is date
+to date i s o
+parse date
+contains time
+get date format
+get pattern
+get object
+equals
+hash code
+formatter
+formatter pattern format
+format object
+format
+get style
+number
+pattern
+formatted string
+is default format
+formatted number
+formatted number
+formatted number
+formatted number
+formatted number
+formatted number
+get number
+get pattern
+get object
+serialize
+deserialize
+to string
+int value
+long value
+float value
+double value
+hash code
+equals
+compare to
+parser
+decimal format parser
+parse
+elem scanner
+attrib locale
+attrib default
+elem checkfirstchar
+attrib disabled
+attrib chars
+locales
+is default
+first chars
+check first chars
+parsers
+scanner
+validate
+get locales
+is default
+get first chars
+set first chars
+add parser
+get parsers
+to xml
+first chars to xml
+locale matches exactly
+country matches
+parse
+serial version u i d
+open source forge u r l action
+action performed
+serial version u i d
+url
+online documentation action
+action performed
+serial version u i d
+url
+open u r l action
+action performed
+serial version u i d
+document
+documentation action
+action performed
+after map change
+name
+icons
+group icon
+description
+icon group
+icon group
+icon group
+get name
+set name
+get icons
+set icons
+get group icon
+set group icon
+get description
+set description
+add icon
+hash code
+equals
+to string
+default image path
+separator
+theme folder key
+resource controller
+parent dir pattern
+name
+file name
+description
+shortcut key
+resource u r l
+u i icon
+u i icon
+u i icon
+get file name
+get shortcut key
+get description
+get name
+get icon
+get key stroke
+get image path
+get url
+get path
+hash code
+equals
+compare to
+to string
+user icon
+get path
+get url
+default image path
+shortcut key
+mind icon
+mind icon
+mind icon
+get image path
+zoomed icons
+ui icon
+zoom
+zoomed icon
+zoomed icon
+get icon
+get path
+get url
+equals
+hash code
+map icons
+icon registry
+add icon
+get icons as list model
+registry node icons
+add icons
+comparation result
+name
+succeed
+value
+store
+comparation result
+succeed
+load
+priority compare condition
+is equality condition
+create renderer component
+check node
+create description
+get icon name
+fill x m l
+get name
+icon handlers
+state icon providers
+get controller
+get controller
+install
+install
+add state icon provider
+remove state icon provider
+icon controller
+add icon getter
+remove icon getter
+get icons
+get state icons
+child icons
+own icons
+accumulated icons
+get accumulated icons
+add accumulated icons to tree set
+set style check for change
+hash code
+equals
+ui icons
+zoom
+image icons
+compound icon
+get icons
+u i icon set
+get icon
+compare to
+equals
+hash code
+store
+icon
+name
+icon name
+icon first index
+is state icon contained
+load
+icon contained condition
+check node
+get icon name
+create renderer component
+fill x m l
+create description
+get name
+desc key
+create
+separator
+resource controller
+group names key
+group key
+group icon key
+group desc key
+groups
+create
+set icon groups
+get icons
+get user icons
+get user icons
+factory
+default image path
+icon not found
+icon cache
+get instance
+get image icon
+get image icon
+serial version u i d
+icon
+icon action
+action performed
+get description
+get icon
+get key stroke
+get mind icon
+get shortcut key
+serial version u i d
+position
+remove icon action
+action performed
+get description
+get icon
+get key stroke
+get shortcut key
+freeplane version with curved looped connectors
+format as hyperlink
+link
+arrow links
+link controller
+link builder
+create arrow link
+create element
+reading completed
+register attribute handlers
+end element
+fix self looped connector shape
+register by
+save
+set attributes
+write attributes
+write content
+filter link
+connector label
+connector
+values
+can edit values
+can handle
+can select values
+create condition
+get conditions for property
+get filtered properties
+get value editor
+get values for property
+is case dependent
+supports approximate matching
+load condition
+get value renderer
+name
+connector label equals condition
+check link
+equals
+create description
+get name
+name
+connector label contains condition
+check link
+contains
+create description
+get name
+hyper text link model
+name
+match case
+match approximately
+match case
+match approximately
+string matching strategy
+hyper link equals condition
+check link
+create description
+get name
+fill x m l
+target i d
+link model
+get target i d
+set target i d
+source
+node link model
+get source
+get target
+is self link
+links
+add
+contains target
+get
+remove
+set
+get links
+serial version u i d
+link controller
+target
+goto link node action
+action performed
+on node dependencies
+get evaluation dependencies
+manage change and return dependencies
+access node
+get dependencies
+add recursively
+access node impl
+get dependency set
+to string
+node changed
+on node deleted
+on node inserted
+on node moved
+on pre node moved
+on pre node delete
+map changed
+node changed impl
+name
+match case
+match approximately
+match case
+match approximately
+string matching strategy
+hyper link contains condition
+check link
+create description
+get name
+fill x m l
+mode controller
+link transformer
+register listeners
+transform content
+transform content
+serial version u i d
+m arrow link
+remove connector action
+action performed
+get arrow link
+set arrow link
+serial version u i d
+arrow link
+connector color action
+action performed
+serial version u i d
+arrow link
+end arrow
+start arrow
+change connector arrows action
+action performed
+serial version u i d
+arrow link
+shape
+change connector shape action
+action performed
+icon height
+icon width
+serial version u i d
+arrow link
+dash
+change connector dash action
+action performed
+create icon
+name
+get name
+check node
+load
+create description
+icons
+add icon
+add icon
+create icons
+get icon
+get icons
+remove icon
+remove icon
+install
+create extension
+is connector node
+add
+serial version u i d
+new value
+old value
+property
+node change event
+get new value
+get node
+get old value
+get property
+filter level
+filter root
+filter leaf
+filter periodic level
+level editor
+values
+periodic values
+can edit values
+can handle
+can select values
+create condition
+create a selectable condition
+get conditions for property
+get filtered properties
+get value editor
+get values for property
+is case dependent
+supports approximate matching
+load condition
+get value renderer
+find next
+at end
+find previous
+name
+get name
+check node
+load
+create description
+install
+create extension
+undoable toggle hook
+is free node
+encrypted content
+is accessible
+is decrypted
+m encrypter
+node
+get model
+encryption model
+encryption model
+check password
+decrypt
+decrypt xml
+encrypt xml
+generate encrypted content
+get encrypted content
+is accessible
+paste x m l
+set accessible
+set encrypter
+comparation result
+name
+succeed
+value
+comparation result
+succeed
+load
+node level compare condition
+is equality condition
+check node
+check level
+create description
+fill x m l
+get name
+instance
+may write children
+map controller
+should write children
+write folded
+write invisible
+xml node
+node tag
+node writer
+save children
+write attributes
+write attributes generate content
+write content
+get node tag
+serial version u i d
+map
+new value
+old value
+property
+map change event
+map change event
+get map
+get new value
+get old value
+get property
+name
+period
+remainder
+periodic level condition
+get name
+check node
+load
+fill x m l
+create description
+create conditions
+install
+is first group node
+create extension
+is summary node
+get summary level
+create extension
+file
+f node model
+get children
+get file
+get user object
+has children
+is leaf
+to string
+f map controller
+get f mode controller
+new map
+new node
+toggle folded
+f map model
+get title
+instance
+new child
+new sibling before
+new sibling behind
+resources convert to current version
+m map controller
+add new node
+start editing after select
+stop editing
+add new summary node start editing
+add new node
+add new node
+close
+create actions
+delete node
+delete without undo
+get m mode controller
+insert node
+insert node
+insert node
+insert node into without undo
+is writeable
+move node
+move node
+move node
+move node as child
+move node before
+move nodes
+ move nodes
+move node to
+get sorted siblings
+move node to without undo
+new model
+new model
+set saved
+add free node
+new untitled map
+new map
+new documentation map
+restore current map
+url manager
+map controller
+map i o
+install
+load catch exceptions
+load
+new map
+file manager
+map controller
+m map i o
+install
+load
+load catch exceptions
+load safe and lock
+open
+new map from template
+save as user template
+save
+save
+save as
+write to file
+try to lock
+load tree
+new map from default template
+new untitled map
+new map
+new documentation map
+restore current map
+map
+add getter
+get property
+remove getter
+extension container
+mode controller
+mode controller 4build
+mode controllers
+view controller
+resource controller
+option validators
+option panel controller
+map view manager
+thread controller
+current controller
+controller
+add extension
+add mode controller
+close
+get extension
+get map
+get map view manager
+set map view manager
+get mode controller
+get mode controller
+get modes
+get selection
+get view controller
+quit
+quit
+select mode
+select mode
+set view controller
+shutdown
+exec
+exec
+exec
+exec
+get default executer
+get current controller
+set current controller
+get current mode controller
+select mode for build
+get resource controller
+add option validator
+get option validators
+get option panel controller
+extension container
+copiers
+is blocked
+map controller
+tool tip
+menu contributors
+node view listeners
+user input listener factory
+controller
+mode controller
+add action
+add extension
+register extension copier
+unregister extension copier
+copy extensions
+undoable copy extensions
+remove extensions
+undoable remove extensions
+resolve parent extensions
+undoable resolve parent extensions
+remove extensions
+add i node view life cycle listener
+add menu contributor
+commit
+is undo action
+execute
+get action
+get controller
+get extension
+contains extension
+remove extension
+get map controller
+get mode name
+get user input listener factory
+has one visible child
+is blocked
+on view created
+on view removed
+remove action
+remove i node view life cycle listener
+rollback
+set blocked
+set map controller
+set user input listener factory
+set visible
+shutdown
+start transaction
+force new transaction
+startup
+update menus
+can edit
+create tool tip
+add tool tip provider
+reversed
+handlers
+combined property chain
+add getter
+key
+get property
+remove getter
+modename
+b mode controller
+get mode name
+modename
+f mode controller
+get mode name
+startup
+lookandfeel property
+modename
+redo
+resources delete nodes without question
+p r e f m m 2 x m l
+undo
+option panel builder
+get m mode controller
+m mode controller
+add undoable actor
+deactivate undo
+commit
+delayed commit
+delayed rollback
+create actions
+create option panel controls
+create property action
+add current look and feel if necessary
+execute
+get mode name
+get option panel builder
+is undo action
+rollback
+save
+shutdown
+start transaction
+force new transaction
+startup
+undo
+reset redo
+can edit
+serial version u i d
+resource
+get accelerators sys directory
+get accelerators user directory
+install
+load accelerator presets action
+action performed
+hgap
+null location
+vgap
+h gap
+shift y
+v gap
+create location model
+get model
+get h gap
+get shift y
+get v gap
+set h gap
+set shift y
+set v gap
+register attribute handlers
+register by
+write attributes
+node
+old vgap
+v gap
+change v gap actor
+act
+get description
+set v gap
+undo
+shift x
+node
+old shift x
+change shift x actor
+act
+get description
+set shift x
+undo
+node
+old shift y
+shift y
+change shift y actor
+act
+get description
+set shift y
+undo
+standard node text color
+background color handlers
+font handlers
+mode controller
+shape handlers
+text color handlers
+node numbering
+get controller
+get controller
+install
+node style controller
+add background color getter
+add color getter
+add font getter
+add shape getter
+get background color
+get color
+get style background color
+get style max node width
+get style min width
+get default font
+get default font family name
+get default font style
+get default font size
+get default font
+get style font
+create font
+get style shape
+get style text color
+get font
+get font family name
+get font size
+get shape
+is bold
+is italic
+remove background color getter
+remove color getter
+remove font getter
+remove shape getter
+get node numbering
+get node format
+get max width
+get min width
+get mode controller
+not set
+min node width
+max text width
+get model
+create node size model
+get max node width
+set max node width
+get min node width
+set min node width
+set node max node width
+set node min width
+get node max node width
+get min node width
+copy to
+f node style controller
+serial version u i d
+action shape
+node shape action
+action performed
+note manager
+note writer
+write attributes
+write content
+editing purpose
+create note
+get note
+get note text
+get xml note text
+note controller
+note builder
+create element
+end element
+serial version u i d
+note controller
+remove note action
+action performed
+remove note
+set enabled
+does note exist
+head
+ignore editor update
+m note document listener
+node
+note controller
+note manager
+on deselect
+on select
+save note
+save note
+update editor
+serial version u i d
+position
+set note window position
+action performed
+set selected
+serial version u i d
+note controller
+show hide note action
+action performed
+set selected
+serial version u i d
+note controller
+select note action
+action performed
+name
+serial version u i d
+page action
+action performed
+name
+serial version u i d
+print preview action
+action performed
+default zoom factor step
+serial version u i d
+page number
+view
+preview dialog
+action performed
+get button
+get button
+serial version u i d
+page index painter
+page number
+page step
+preview
+browse action
+action performed
+get page index text
+paint page index
+serial version u i d
+print direct action
+name
+serial version u i d
+is dlg
+print action
+print action
+action performed
+default preview size
+minimum zoom factor
+serial version u i d
+image graphics
+index
+preview page image
+print controller
+view
+zoom
+preview
+change zoom
+get minimum size
+get page format
+get page height
+get page index
+get page width
+move index
+paint
+paint paper
+resize
+serial version u i d
+preview
+zoom step
+zoom action
+action performed
+style tooltip
+cached node
+cached style
+style handlers
+maps to refresh
+logical style controller
+get resursively
+add all
+add
+add
+register change listener
+create builder
+install
+get controller
+get controller
+refresh map
+refresh map later
+get first style
+get styles
+move conditional style down
+move conditional style up
+add conditional style
+insert conditional style
+remove conditional style
+clear cache
+add style getter
+remove style getter
+get style names
+get conditional map styles
+get conditional node styles
+get node style names
+get map style names
+create
+create
+named object
+style named object
+style named object
+equals
+hash code
+to string
+get object
+to key string
+name
+value
+style condition
+check node
+fill x m l
+load
+create description
+get name
+node
+get node
+style node
+to string
+name
+value
+style contains condition
+check node
+fill x m l
+load
+create description
+get name
+string
+style string
+equals
+hash code
+to string
+style
+get style
+set style
+get extension
+get style
+create extension
+box
+combo box renderer with tooltip
+get list cell renderer component
+default pattern
+editable pattern combo property
+to value object
+get selected pattern
+style
+serial version u i d
+assign style action
+action text
+action name
+action performed
+set selected
+property name
+set boolean map property action
+action performed
+set selected
+renderer
+get table cell renderer component
+object
+get object
+highlighted transformed object
+to string
+name
+value
+match approximately
+value
+node item
+match approximately
+string matching strategy
+load
+node contains condition
+check node
+check text
+check text
+create description
+fill x m l
+get name
+editing purpose
+hidden
+detail text model
+is hidden
+set hidden
+create detail text
+get detail text
+get detail text text
+get xml detail text text
+details hidden
+filter node
+filter anytext
+filter note
+filter parent
+filter details
+node tooltip
+details tooltip
+text transformers
+mode controller
+mark transformed text
+is mark transformed text set
+get controller
+get controller
+install
+install
+text controller
+add text transformer
+get text transformers
+remove text transformer
+get text
+get transformed object
+get icon
+is text formatting disabled
+get transformed object no throw
+get transformed object
+get transformed object no throw
+get transformed text
+get transformed text no throw
+is minimized
+get plain text content
+get transformed text no throw
+get short text
+set details hidden
+register details tooltip
+register node text tooltip
+set is minimized
+toggle shortened
+get node format
+parse data
+get node numbering
+get mode controller
+values
+can edit values
+can handle
+can select values
+create condition
+create a selectable condition
+get conditions for property
+get filtered properties
+get value editor
+get values for property
+is case dependent
+supports approximate matching
+load condition
+get items for comparison
+get item for comparison
+get value renderer
+text controller
+format content transformer
+transform content
+expand format
+insert prefix
+get path to root
+name
+search pattern
+search pattern
+node item
+load
+node matches regexp condition
+node matches regexp condition
+check node
+check text
+check text
+create description
+fill x m l
+is match case
+get name
+comparation result
+name
+succeed
+match approximately
+value
+item
+comparation result
+succeed
+node item
+load
+node text compare condition
+is equality condition
+check node
+check text
+check text
+create description
+fill x m l
+get name
+name
+value
+match approximately
+value
+node item
+match approximately
+string matching strategy
+load
+match case node contains condition
+check node
+check text
+check text
+create description
+fill x m l
+get name
+html
+xml
+get html
+get xml
+set html
+set xml
+name
+value
+match approximately
+value
+match approximately
+string matching strategy
+load
+match case
+match case note contains condition
+check node
+create description
+create description
+get text
+fill x m l
+get name
+name
+value
+load
+match case
+note contains condition
+create description
+get text
+panel
+serial version u i d
+s h t m l set link by file chooser action
+action performed
+set link by file chooser
+update
+get properties
+shtml prefs changed listener
+freeplane to s h t m l property change adapter
+property changed
+panel
+s h t m l edit link action
+action performed
+update
+get properties
+serial version u i d
+use dialog
+edit details action
+action performed
+name
+time condition modified before
+check node
+create description
+get name
+name
+time condition created after
+check node
+create description
+get name
+name
+time condition created before
+check node
+create description
+get name
+name
+time condition modified after
+check node
+create description
+get name
+install
+serial version u i d
+controller
+toggle scrollbars action
+action performed
+set selected
+after map change
+serial version u i d
+toolbar name
+toggle toolbar action
+action performed
+set visible
+get toolbar
+set selected
+is visible
+after map change
+serial version u i d
+toggle full screen action
+action performed
+set selected
+after map change
+serial version u i d
+controller
+toggle menubar action
+action performed
+set selected
+after map change
+encoded space
+encoded freeplane uri prefix
+internet explorer freeplane uri prefix
+ms office freeplane uri prefix
+microsoft uri prefixes
+freeplane uri for file
+freeplane url
+fix partially decoded freeplane uri coming from internet explorer
+default
+default inputstream converter
+map begin
+name
+version
+needs conversion
+another dialect
+app name
+url
+input stream converter
+map converter
+values
+map version interpreter
+map version interpreter
+get version interpreter
+values
+add map version interpreter
+knows
+get map converter
+get map input stream converter
+get dialect info
+is older than
+max pushed back
+in
+pushed back
+is utf 8
+cleaning input stream
+is utf 8
+read
+is valid input
+serial version u i d
+serial version u i d
+start file
+new map from template action
+action performed
+after map change
+autosave extension
+change state
+files should be deleted after shutdown
+model
+number of files
+single backup directory
+backup dir
+do automatic save
+run
+pop locking user of old lock
+release lock
+release timer
+run
+try to lock
+applet
+m component in split pane
+map content box
+scroll pane
+applet view controller
+get root pane container
+get freeplane menu bar
+get freeplane version
+get j frame
+init
+insert component into split pane
+is applet
+open document
+open document
+remove split pane
+set freeplane menu bar
+set title
+set waiting cursor
+start
+after view change
+after view close
+after view created
+before view change
+applet properties
+user props
+applet resource controller
+get freeplane user directory
+get int property
+get properties
+get property
+get resource
+init
+save properties
+set default property
+set property
+set property by parameter
+is applet
+lm
+split pane layout manager decorator
+remove layout component
+preferred layout size
+minimum layout size
+layout container
+is divider required
+add layout component
+views to be removed
+write view
+read view
+new view to be removed
+new docked view
+remove dummy views
+org freeplane old userfpdir
+import old properties
+copy user files from previous version to
+is defined
+import old preferences
+remove opened maps
+load properties
+save properties
+fix font size
+import old default style
+update default style
+update note style
+import old icons
+check java version
+main
+history
+remote version
+successful
+remote version download url
+remote version changelog url
+get url
+http version client
+http version client
+is property url
+parse properties
+parse history
+parse history
+parse url
+get history
+get remote version
+get remote version download url
+get remote version changelog url
+is successful
+split pane last left position
+split pane last position
+split pane last right position
+split pane last top position
+split pane left position
+split pane position
+split pane right position
+split pane top position
+frame
+m location preference value
+m mind map component
+m split pane
+navigation next map
+navigation previous map
+resource controller
+map pane
+map view windows
+application view controller
+change note window location
+get adjustable property
+get root pane container
+get freeplane menu bar
+get j frame
+get layered pane
+insert component into split pane
+is applet
+open document
+open document
+quit
+remove split pane
+set split pane layout manager
+save properties
+save split pane position
+set freeplane menu bar
+set title
+set waiting cursor
+view number changed
+init frame
+open maps on start
+focus to
+modifier key codes
+connected to menu view
+process key binding
+contains modifier key code
+serial version u i d
+list
+open last opened action
+action performed
+after map change
+lock file
+is single instance mode
+is single instance force mode
+port
+is slave
+is master present
+starter
+single instance manager
+start
+check is master present
+is slave
+is master present
+start as slave
+open files in master
+start as master
+create lock file
+start stand alone
+init lock file
+error
+handler
+open connection
+mode controller
+create mode controller
+mode controller
+create mode controller
+maps
+map selection listeners
+current map
+current key
+add map selection listener
+add map view change listener
+change to map view
+change to map view
+change to mode
+check if file is already opened
+close
+create html map
+create image
+get background color
+get component
+get font
+get map keys
+get maps
+get map selection
+get map view component
+get map view vector
+get mode controller
+get model
+get model
+get selected component
+get text color
+get zoom
+new map view
+next map view
+previous map view
+remove map selection listener
+remove map view change listener
+scroll node to visible
+set zoom
+try to change to map view
+try to change to map view
+update map view name
+is left tree supported
+get maps
+get views
+get scroll pane
+get viewport
+update menus
+obtain focus for selected
+set title
+set edges rendering hint
+set text rendering hint
+close all maps
+close
+working thread id
+worker
+get frame size
+set frame size
+change note window location
+err
+get root pane container
+get content pane
+get frame
+get freeplane menu bar
+get j frame
+get status bar
+init
+insert component into split pane
+is applet
+is menubar visible
+open document
+open document
+out
+add status info
+add status info
+add status info
+add status info
+add status component
+remove status
+remove split pane
+save properties
+select mode
+set menubar visible
+set title
+set waiting cursor
+view number changed
+complete visible property key
+add object type info
+quit
+is dispatch thread
+invoke later
+invoke and wait
+is headless
+are scrollbars visible
+set scrollbars visible
+is full screen enabled
+instance
+mode controller
+create mode controller
+get instance
+create add ins
+create mode controller impl
+create standard controllers
+instance
+mode controller
+ui factory
+create mode controller
+get instance
+create add ins
+create mode controller impl
+create standard controllers
+ui factory
+m toolbar contributor
+update menus
+instance
+mode controller
+get instance
+create controller
+install
+dialog
+map view scroll pane
+get dialog
+dialog controller
+get root pane container
+get freeplane menu bar
+get j frame
+get layered pane
+insert component into split pane
+is applet
+open document
+open document
+set freeplane menu bar
+set title
+set waiting cursor
+remove split pane
+set map view
+status
+s mode controller
+get status
+close dialog
+set status
+try to close dialog
+startup
+headless run property name
+starter
+get call parameters
+start
+load plugins
+load plugins
+start framework
+create starter
+register classpath url handler
+stop
+activator impl
+start
+stop
+open connection
+serial version u i d
+encapsulated exception
+line nr
+msg
+system i d
+build message
+x m l exception
+x m l exception
+x m l exception
+x m l exception
+x m l exception
+finalize
+get exception
+get line nr
+get system i d
+print stack trace
+print stack trace
+print stack trace
+to string
+at end of data
+reader
+saved char
+c d a t a reader
+close
+finalize
+read
+check literal
+error closing tag not empty
+error expected input
+error invalid attribute value
+error invalid entity
+error invalid input
+error missing attribute
+error missing element
+error missing p c data
+error unexpected attribute
+error unexpected c d a t a
+error unexpected element
+error unexpected entity
+error unexpected p c data
+error wrong closing tag
+process char literal
+process entity
+read
+read char
+scan identifier
+scan public i d
+scan string
+scan system i d
+skip comment
+skip tag
+skip whitespace
+validation error
+cdata content xml writer
+cdata content xml writer
+write encoded content
+full name
+name
+namespace
+type
+value
+x m l attribute
+get full name
+get name
+get namespace
+get type
+get value
+set value
+buffer
+buffer index
+reader
+resolver
+content reader
+close
+finalize
+read
+attribute with invalid value
+misc error
+missing attribute
+missing element
+missing pcdata
+serial version u i d
+unexpected attribute
+unexpected element
+unexpected pcdata
+attribute name
+attribute value
+element name
+x m l validation exception
+finalize
+get attribute name
+get attribute value
+get element name
+class key
+default class
+create default x m l parser
+create default x m l parser
+create x m l parser
+writer
+in content
+x m l writer
+x m l writer
+finalize
+write
+write
+write
+write
+add raw content
+write encoded
+write encoded content
+get writer
+serial version u i d
+x m l parse exception
+x m l parse exception
+at end of data
+reader
+p i reader
+close
+finalize
+read
+serial version u i d
+image preview
+update view
+serial version u i d
+node
+viewer
+remove
+change
+open
+reset zoom
+fire popup menu will become invisible
+fire popup menu will become visible
+get remove
+get open
+get change
+get reset zoom
+make
+maybe show popup
+mouse clicked
+mouse entered
+mouse exited
+mouse pressed
+mouse released
+set visible
+zoom
+viewer layout manager
+add layout component
+layout container
+minimum layout size
+preferred layout size
+remove layout component
+accept
+get image readers
+create viewer
+create viewer
+get description
+get original size
+set final viewer size
+set draft viewer size
+viewers
+uri
+zoom
+external resource
+remove viewers
+get viewers
+get uri
+get absolute uri
+get zoom
+set zoom
+set zoom
+serial version u i d
+node history
+forward action
+action performed
+set enabled
+back action
+controller
+current node holder
+forward action
+node iterator
+nodes
+install
+install
+node history
+can go back
+can go forward
+get link selection listener
+get map selection listener
+go
+removed
+go
+go back
+go forward
+on node select
+serial version u i d
+node history
+back action
+action performed
+set enabled
+m map view
+m node id
+reached by link
+node holder
+equals
+get hold map view
+get map view
+get mode controller
+get node
+hash code
+is identical
+is reached by link
+set reached by link
+serial version u i d
+extended progress icon identifier
+icon names
+progress icons
+o k icon
+update progress icons
+update extended progress icons
+remove progress icons
+install actions
+name
+reminder condition after
+check node
+create description
+get name
+blinking period
+node
+remind user at
+period unit
+period
+timer
+script
+task
+get extension
+reminder extension
+get node
+get remind user at
+set remind user at
+get period unit
+set period unit
+get period unit as string
+set period unit as string
+get period
+set period
+get script
+set script
+schedule timer
+deactivate timer
+display state icon
+is ancestor node
+on node inserted
+on node moved
+on pre node delete
+on pre node moved
+map changed
+on node deleted
+display state
+name
+filter reminder later
+filter reminder earlier
+check node
+create description
+get name
+reminder controller
+reminder extension
+state added
+run script
+already executed
+timer blink task
+run
+already executed
+name
+reminder condition before
+check node
+create description
+get name
+name
+filter reminder executed
+check node
+create description
+get name
+node
+detail text accessor
+get text
+set text
+get node
+column sorting
+column width
+create
+get column sorting
+get column width
+marschall
+set column sorting
+set column width
+icon names
+icons
+icons holder
+compare to
+get icons
+to string
+text accessor
+original notes text
+untagged notes text
+text holder
+compare to
+get untagged notes text
+to string
+set text
+get node
+get text
+node
+core text accessor
+get text
+set text
+get node
+node
+note text accessor
+get text
+set text
+get node
+name
+serial version u i d
+controller
+zoom in action
+action performed
+add layout component
+layout container
+minimum layout size
+preferred layout size
+remove layout component
+serial version u i d
+shape
+insets
+root main view
+drop as sibling
+drop left
+get left point
+get preferred size
+get right point
+get shape
+set shape
+paint component
+paint background
+paint drag over
+set dragged over
+get insets
+get insets
+get connector point
+is in drag region
+h gap
+instance
+get h gap
+get instance
+layout
+place children
+set up
+instance
+get instance
+layout
+map listeners
+view listeners
+add listener
+add listener
+after map view change
+after map view close
+before map view change
+get model
+map view created
+fire map view created later
+fire map view created after it is displayed
+fire map view created
+remove listener
+remove listener
+selectable layout instance
+add layout component
+layout container
+minimum layout size
+preferred layout size
+remove layout component
+get layout
+get instance
+name
+serial version u i d
+view controller
+zoom out action
+action performed
+node view
+down
+arrow heigth
+arrow half width
+icon heigth
+icon width
+arrow icon
+get icon height
+get icon width
+paint icon
+last mode name
+selected map view
+map view change listeners
+map view vector
+zoom
+set zoom combo box run
+controller
+user defined zoom
+zoom in
+zoom model
+zoom out
+zooms
+antialias all
+antialias edges
+map view controller
+add map selection listener
+add map view change listener
+add to or change in map views
+change to map view
+change to map view
+change to mode
+check if file is already opened
+close
+close
+create html map
+create image
+get background color
+get component
+get font
+get map keys
+get maps
+get map selection
+get map view
+get map view component
+get map view vector
+get mode controller
+get model
+get model
+get model
+get selected component
+get text color
+get view number
+get zoom
+new map view
+next map view
+previous map view
+remove map selection listener
+remove map view change listener
+same file
+scroll node to visible
+set zoom
+try to change to map view
+try to change to map view
+update map view name
+is left tree supported
+get maps
+get views
+after view change
+after view close
+after view created
+before view change
+set zoom by item
+get current zoom index
+get item for zoom
+set zoom combo box
+zoom in
+zoom out
+update menus
+get zooms
+get zoom value
+obtain focus for selected
+close all maps
+get antialias all
+get antialias edges
+set antialias all
+set antialias edges
+set edges rendering hint
+set text rendering hint
+change antialias
+property changed
+set title
+def stroke
+serial version u i d
+insets
+get left point
+get right point
+get shape
+paint component
+paint background
+get insets
+get insets
+y mins
+y maxs
+xs
+current x
+current y 1
+current y 2
+is left
+level
+max level
+summary edge painter
+reset level values
+save current values
+add child
+update level values
+reset level values for start
+set current level
+has summary edge
+paint summary edge
+get y 1
+get y 2
+get x
+instance
+get instance
+layout
+serial version u i d
+get left point
+get edge width
+get main view height with folding mark
+get right point
+get shape
+paint component
+paint background
+paint decoration
+get insets
+get insets
+is painting
+label u i
+icon r
+text r
+view r
+maximum width
+get preferred size
+get preferred size
+create u i
+layout c l
+layout label with text icon
+paint
+super paint safe
+paint icons
+property change
+get text rendering icon
+install components
+get icon r
+get text r
+layout
+instance
+get instance
+layout
+serial version u i d
+layout type
+view layout type action
+action performed
+invalidate
+set selected
+align bottom
+align center
+align top
+drag color
+dragged over no
+dragged over sibling
+dragged over son
+dragged over son left
+folding symbol width
+serial version u i d
+shift
+space around
+main viewer position
+note viewer position
+paint debug border
+max tool tip width
+attribute view
+content pane
+main view
+map
+model
+preferred child
+edge style
+edge width
+edge color
+model background color
+top overlap
+bottom overlap
+detail viewer position
+additional mouse sensitive area
+node view
+add drag listener
+add drop listener
+calc shift y
+contains
+convert point to map
+create attribute view
+focused
+get attribute view
+get background color
+get cloud color
+get children views
+get content
+get content pane
+restore focus to main view
+get coordinates
+get coordinates
+get delta x
+get delta y
+get first
+get h gap
+get last
+get left
+get link point
+get main view
+get main view connector point
+get relative location
+get map
+get max tool tip width
+get model
+get next sibling single
+get next visible sibling
+get parent view
+get preferred visible child
+get previous sibling single
+get previous visible sibling
+get right
+get selected color
+get shift
+get sibling views
+get text background
+get text color
+get v gap
+get visible parent view
+get zoomed folding symbol half width
+add child views
+add child view
+is child of
+is content visible
+is left
+is parent hidden
+is parent of
+is root
+is selected
+is sibling of
+map changed
+node changed
+on node deleted
+on node inserted
+on node moved
+on pre node delete
+numbering changed
+paint component
+paint
+paint cloud
+paint clouds
+paint edges
+get space around
+get zoomed
+paint decoration
+remove
+remove from map
+repaint edge
+repaint selected
+request focus in window
+request focus
+set main view
+set model
+set preferred child
+set text
+syncronize attribute view
+to string
+tree structure changed
+update
+is shortened
+update edge
+get edge style
+get edge width
+get edge color
+update cloud
+get cloud model
+update shortener
+set content component visible
+update all
+update shape
+use selection colors
+on pre node moved
+validate tree
+add content
+remove content
+remove content
+get content
+is summary
+is first group node
+is free
+get detail background
+get top overlap
+set top overlap
+get bottom overlap
+set bottom overlap
+header background
+table popup menu
+attribute table
+attribute view scroll pane
+current attribute table model
+extended attribute table model
+node view
+reduced attribute table model
+table header
+table selection listener
+viewer position
+attribute view
+add listeners
+add table listeners
+ancestor moved
+are attributes visible
+get attribute registry
+get attributes
+get current attribute table model
+get extended attribute table model
+get map view
+get node
+get node view
+get view type
+is popup shown
+provide attribute table
+is reduced
+remove listeners
+set view type
+start editing
+start editing table
+state changed
+stop editing
+syncronize attribute view
+table changed
+update
+view removed
+get container
+add row
+set optimal column widths
+get attribute table
+add table selection listener
+mouse dragged
+mouse moved
+mouse entered
+mouse exited
+update cursor
+get cursor
+update cursor
+serial version u i d
+delete
+down
+insert
+insert file link
+old table
+optimal width
+row
+table
+up
+col
+insert link
+insert node link
+insert anchored link
+fire popup menu will become invisible
+fire popup menu will become visible
+get delete
+get down
+get insert
+get insert file link
+get insert link
+get insert node link
+get insert anchored link
+get optimal width
+get table
+get up
+make
+maybe show popup
+mouse clicked
+mouse entered
+mouse exited
+mouse pressed
+mouse released
+select table
+set visible
+after last row
+serial version u i d
+new row
+attribute view
+extended attribute table model decorator
+are attributes visible
+editing canceled
+get row count
+get value at
+insert row
+is cell editable
+move row down
+move row up
+remove row
+set value at
+state changed
+table changed
+serial version u i d
+zoom correction factor
+is painting
+zoom
+border color
+get height
+get table cell renderer component
+get width
+paint
+serial version u i d
+attribute view scroll pane
+get maximum size
+get preferred size
+is visible
+is validate root
+serial version u i d
+index
+visible row count
+reduced attribute table model decorator
+add row
+are attributes visible
+calc row
+get index
+get row count
+get value at
+insert row
+is cell editable
+rebuild table model
+remove row
+set value at
+state changed
+table changed
+create cloud view
+calc distance between points
+arc cloud view
+paint decoration
+star cloud view
+paint decoration
+get distance to convex hull
+is round
+rectangle cloud view
+fill polygon
+paint decoration
+paint decoration
+get distance to convex hull
+sharp linear edge view
+get stroke
+draw
+detect collision
+linear edge view
+draw
+detect collision
+instance
+get edge
+get instance
+xctrl
+one
+two
+sharp bezier edge view
+get stroke
+draw
+update
+detect collision
+child xctrl
+xctrl
+bezier edge view
+draw
+update
+detect collision
+xs
+ys
+horizontal edge view
+create start
+draw
+detect collision
+outline edge view
+detect collision
+create start
+draw
+get stroke
+child xctrl
+xctrl
+summary edge view
+draw
+update
+detect collision
+stroke
+hidden edge view
+get hidden stroke
+get stroke
+paint
+detect collision
+hidden outline edge view
+get stroke
+paint
+accum
+accum cubic
+accum quad
+find cubic zeros
+find quad zero
+get b box
+edge view
+edge link view
+detect collision
+get model
+increase bounds
+paint
+paint arrow
+line height
+text height
+text width
+lines
+g
+get line height
+get text height
+get text width
+text painter
+draw
+xs
+ys
+outline link view
+detect collision
+create start
+draw
+get stroke
+maximal rectangle size for collision detection
+detect collision
+get control rectangle
+loop incline offset
+normal length
+dotted dash
+def stroke
+label gap
+precision
+arrow link curve
+source text rectangle
+middle text rectangle
+target text rectangle
+text color
+color
+stroke
+bg color
+connector view
+zoom dash
+calc inclination
+detect collision
+draw end point text
+draw middle label
+get arrow link curve
+get arrow link model
+get center point
+get half length
+get mode controller
+get model
+intersection
+normal
+paint
+normalize length
+create line
+create linear path
+paint curve
+draw circle
+paint arrow
+draw labels
+create cubic curve 2 d
+increase bounds
+increase bounds
+fix incline if loop node
+edit node external application
+show
+create editor
+create editor
+m map view controller
+edit handler
+default node key listener
+key pressed
+key released
+key typed
+is action event
+is control character
+tracked window
+mouse position after focus gained
+is relevant
+window gained focus
+track window for component
+mm
+xml
+xslt
+menu xml creator
+menu resource
+update xml
+transform mind map to xml
+to file
+is file
+maps menu action listener
+action performed
+serial version u i d
+mode
+modes menu action listener
+action performed
+after map change
+node popup
+m e n u m m 2 x m l
+map mouse listener
+map mouse wheel listener
+maps menu action listener
+maps popup menu
+menu bar
+menu builder
+m registered mouse wheel event handler
+node drag listener
+node drop target listener
+node key listener
+node motion listener
+node mouse motion listener
+node popup menu
+tool bars
+toolbar lists
+menu xml creator
+user input listener factory
+new list array
+add tool bar
+add mouse wheel event handler
+get map mouse listener
+get map mouse wheel listener
+get map popup
+get menu bar
+get menu builder
+get mouse wheel event handlers
+get node drag listener
+get node drop target listener
+get node key listener
+get node motion listener
+get node mouse motion listener
+get node popup menu
+get tool bar
+get tool bars
+remove mouse wheel event handler
+set map mouse listener
+set map mouse wheel listener
+set menu bar
+set node drag listener
+set node drop target listener
+set node key listener
+set node motion listener
+set node mouse motion listener
+set node popup menu
+update map list
+update map list
+update menus
+update mode menu
+node
+dialog
+get node
+node selected
+show
+drag gesture recognized
+is link drag event
+get cursor by action
+node selector
+active component
+glass pane node selector
+mouse moved
+mouse dragged
+mouse clicked
+can redispatch event for
+mouse entered
+mouse exited
+mouse pressed
+mouse released
+find map component
+redispatch mouse event
+mouse listener
+root pane
+glass pane manager
+ancestor removed
+ancestor moved
+ancestor added
